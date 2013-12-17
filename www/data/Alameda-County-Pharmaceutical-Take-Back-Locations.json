@@ -1,0 +1,209 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "cbck-2ta8",
+      "name" : "Alameda County Pharmaceutical Take Back Locations",
+      "attribution" : "Alameda County Environmental Health",
+      "averageRating" : 0,
+      "category" : "Government",
+      "createdAt" : 1339007533,
+      "description" : "Alameda County Pharmaceutical Take Back Locations",
+      "displayType" : "table",
+      "downloadCount" : 2,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "numberOfComments" : 0,
+      "oid" : 1943540,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1354916794,
+      "publicationGroup" : 355485,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1354916763,
+      "rowsUpdatedBy" : "ejjh-y7ut",
+      "signed" : false,
+      "tableId" : 543327,
+      "totalTimesRated" : 0,
+      "viewCount" : 24,
+      "viewLastModified" : 1354916794,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 33505904,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3087314,
+        "width" : 340,
+        "format" : {
+        }
+      }, {
+        "id" : 33505905,
+        "name" : "Type",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3087315,
+        "width" : 284,
+        "format" : {
+        }
+      }, {
+        "id" : 33505906,
+        "name" : "Location 1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 3,
+        "renderTypeName" : "location",
+        "tableColumnId" : 3087316,
+        "width" : 220,
+        "format" : {
+        },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "page" : true,
+            "table" : true
+          },
+          "active" : {
+            "page" : {
+              "id" : "1"
+            }
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "7439-qs8u",
+        "displayName" : "Alameda County",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1345497861,
+        "roleName" : "publisher",
+        "screenName" : "Alameda County",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7439-qs8u",
+        "displayName" : "Alameda County",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1345497861,
+        "roleName" : "publisher",
+        "screenName" : "Alameda County",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages" ]
+      },
+      "tags" : [ "alameda county", "pharmaceutical take back locations", "environmental health" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 2, "6C9C39E4-909B-40C7-8F20-84A6884B88CE", 2, 1339007534, "468587", 1339007542, "468587", "{\n}", "Alameda County Sheriff's Eden Township Substation", "Controlled and Non Controlled Substances", [ "{\"address\":\"15001 Foothill Blvd\",\"city\":\"San Leandro\",\"state\":\"CA\",\"zip\":\"\"}", "37.71022299184281", "-122.12376456102506", null, false ] ]
+, [ 3, "97DC57E4-18E1-4B0F-A0C7-15A1070ABBE1", 3, 1339007534, "468587", 1339007542, "468587", "{\n}", "Alameda County Household Hazardous Waste Oakland Facility", "Non Controlled Substances and Aerosol-Can inhalers", [ "{\"address\":\"2100 East 7th St\",\"city\":\"Oakland\",\"state\":\"CA\",\"zip\":\"\"}", "37.77539872223701", "-122.23887560299896", null, false ] ]
+, [ 4, "0E358659-96F7-4D33-B412-4D37C4737C70", 4, 1339007534, "468587", 1339007542, "468587", "{\n}", "Alameda County Household Hazardous Waste Hayward Facility", "Non Controlled Substances and Aerosol-Can inhalers", [ "{\"address\":\"2091 West Winton Ave\",\"city\":\"Hayward\",\"state\":\"CA\",\"zip\":\"\"}", "37.652911488129234", "-122.13290358066808", null, false ] ]
+, [ 5, "96C52F85-26E5-4307-9089-C3D6E3DA26A6", 5, 1339007534, "468587", 1339007542, "468587", "{\n}", "Alameda County Household Hazardous Waste Livermore Facility", "Non Controlled Substances and Aerosol-Can inhalers", [ "{\"address\":\"5584 La Ribera St\",\"city\":\"Livermore\",\"state\":\"CA\",\"zip\":\"\"}", "37.6981222187543", "-121.7250874457593", null, false ] ]
+, [ 6, "68A2A9FD-A5E2-44A7-AC68-29978B698D93", 6, 1339007534, "468587", 1339007542, "468587", "{\n}", "Alameda County Household Hazardous Waste Fremont Facility (BLT)", "Non Controlled Substances and Aerosol-Can inhalers", [ "{\"address\":\"41149 Boyce Rd\",\"city\":\"Fremont\",\"state\":\"CA\",\"zip\":\"\"}", "37.511433997967224", "-121.99147563660041", null, false ] ]
+, [ 7, "7FD39596-6FB1-42EA-BFB3-20FAD4104C7C", 7, 1339007534, "468587", 1339007542, "468587", "{\n}", "Elihu Harris State Office Building", "Non Controlled Substances Only", [ "{\"address\":\"1515 Clay St\",\"city\":\"Oakland\",\"state\":\"CA\",\"zip\":\"\"}", "37.80606936263707", "-122.27316745450965", null, false ] ]
+, [ 8, "5013EE30-E791-43F4-B76D-143382E7C315", 8, 1339007534, "468587", 1339007542, "468587", "{\n}", "EBMUD Administration Building", "Non Controlled Substances Only", [ "{\"address\":\"375 11ths St, Lobby\",\"city\":\"Oakland\",\"state\":\"CA\",\"zip\":\"94607\"}", "37.80618000000004", "-122.29828999999995", null, false ] ]
+, [ 9, "CAAF4863-5EC4-44B7-B7C5-AF761706AF0B", 9, 1339007534, "468587", 1339007542, "468587", "{\n}", "Versailles Pharmacy", "Non Controlled Substances Only", [ "{\"address\":\"2801 Encinal Ave\",\"city\":\"Alameda\",\"state\":\"CA\",\"zip\":\"94501\"}", "37.75908114475385", "-122.23830284055657", null, false ] ]
+, [ 10, "D140E14A-477F-4BB6-AAE1-CCA983E0EE34", 10, 1339007534, "468587", 1339007542, "468587", "{\n}", "Alta Bates Outpatient Pharmacy", "Non Controlled Substances Only", [ "{\"address\":\"2500 Milvia St, Suite 130\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}", "37.863186662865644", "-122.26979709802265", null, false ] ]
+, [ 11, "7F70AB66-6873-4275-989C-FC796255BCD8", 11, 1339007534, "468587", 1339007542, "468587", "{\n}", "Berkeley Transfer Station", "Non Controlled Substances Only", [ "{\"address\":\"1201 2nd St\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}", "37.8802325210215", "-122.30624334580993", null, false ] ]
+, [ 12, "851FE1D6-5CAF-4C3B-B390-524D9B0CB927", 12, 1339007534, "468587", 1339007542, "468587", "{\n}", "United Pharmacy", "Non Controlled Substances Only", [ "{\"address\":\"2929 Telegraph Ave\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}", "37.856980705666444", "-122.25951486338865", null, false ] ]
+, [ 13, "5F879588-6489-46BA-8075-EEF07136FAE3", 13, 1339007534, "468587", 1339007542, "468587", "{\n}", "Eden Medical Center", "Non Controlled Substances Only", [ "{\"address\":\"20103 Lake Chabot Rd, ER Kiosk\",\"city\":\"Castro Valley\",\"state\":\"CA\",\"zip\":\"94546\"}", "37.69837780811417", "-122.08740174065385", null, false ] ]
+, [ 14, "00A44E30-9B1A-4614-9564-084E766C67E6", 14, 1339007534, "468587", 1339007542, "468587", "{\n}", "Oakland Fire Department Station #20", "Non Controlled Substances Only", [ "{\"address\":\"1401 98th Ave at International\",\"city\":\"Oakland\",\"state\":\"CA\",\"zip\":\"\"}", "37.80505999961946", "-122.27301999967312", null, false ] ]
+, [ 15, "D78A5EA8-0CE6-4A03-86F9-C8BA3F1237E4", 15, 1339007534, "468587", 1339007542, "468587", "{\n}", "Oakland Fire Department Station #3", "Non Controlled Substances Only", [ "{\"address\":\"1445 14th St at Mandela Pkwy\",\"city\":\"Oakland\",\"state\":\"CA\",\"zip\":\"\"}", "37.80505999961946", "-122.27301999967312", null, false ] ]
+, [ 16, "D3056F28-F14A-425C-91AB-FB90D1F7B06A", 16, 1339007534, "468587", 1339007542, "468587", "{\n}", "Peralta Outpatient Pharmacy", "Non Controlled Substances Only", [ "{\"address\":\"3300 Webster St, Ground Floor\",\"city\":\"Oakland\",\"state\":\"CA\",\"zip\":\"\"}", "37.8213232224017", "-122.2621798404345", null, false ] ]
+, [ 17, "63EC5D2D-3888-4190-AF20-3E7AB70F31E6", 17, 1339007534, "468587", 1339007542, "468587", "{\n}", "Davis Street Family Health Center", "Non Controlled Substances Only", [ "{\"address\":\"3081 Teagarden St\",\"city\":\"San Leandro\",\"state\":\"CA\",\"zip\":\"\"}", "37.70532866706259", "-122.15336187488919", null, false ] ]
+, [ 18, "C662E7E8-2F57-47D7-BA1A-C37C7A55422E", 18, 1339007534, "468587", 1339007542, "468587", "{\n}", "Medical Arts Pharmacy", "Non Controlled Substances Only", [ "{\"address\":\"13847 E 14th St\",\"city\":\"San Leandro\",\"state\":\"CA\",\"zip\":\"\"}", "37.714459469304096", "-122.14175525332853", null, false ] ]
+, [ 19, "63F63878-466B-46FE-927E-FB8C5381D76B", 19, 1339007534, "468587", 1339007542, "468587", "{\n}", "Teds Drugs", "Non Controlled Substances Only", [ "{\"address\":\"27453 Hesperian Blvd\",\"city\":\"Hayward\",\"state\":\"CA\",\"zip\":\"94545\"}", "37.62969560581211", "-122.09612591359235", null, false ] ]
+, [ 20, "6E7C27EE-0FD6-4F85-87B1-87D4EECA31E2", 20, 1339007534, "468587", 1339007542, "468587", "{\n}", "Washington Township Medical Group", "Non Controlled Substances Only", [ "{\"address\":\"46690 Mohave Dr\",\"city\":\"Fremont\",\"state\":\"CA\",\"zip\":\"94539\"}", "37.49160523703717", "-121.92608924525688", null, false ] ]
+, [ 21, "53C31BD1-C30E-4741-B4F5-159E6A8F7353", 21, 1339007534, "468587", 1339007542, "468587", "{\n}", "Washington Township Medical Group", "Non Controlled Substances Only", [ "{\"address\":\"33077 Alvarado Niles Rd\",\"city\":\"Union City\",\"state\":\"CA\",\"zip\":\"94587\"}", "37.593291128652425", "-122.04365358053491", null, false ] ]
+, [ 22, "89E71868-D307-4EE1-9147-AF5F225C9536", 22, 1339007534, "468587", 1339007542, "468587", "{\n}", "Washington Township Medical Group", "Non Controlled Substances Only", [ "{\"address\":\"35500 Dumbarton Ct\",\"city\":\"Newark\",\"state\":\"CA\",\"zip\":\"94560\"}", "37.548126877387645", "-122.05208460244394", null, false ] ]
+, [ 23, "8B20896B-5A63-4E57-8709-0C525B51430D", 23, 1339007534, "468587", 1339007542, "468587", "{\n}", "Haller's Pharmacy", "Non Controlled Substances Only", [ "{\"address\":\"6170 Thornton Ave\",\"city\":\"Newark\",\"state\":\"CA\",\"zip\":\"94536\"}", "37.572790000000055", "-121.98558999999995", null, false ] ]
+, [ 24, "80131210-CDBF-4052-99D6-17EBBA352E18", 24, 1339007534, "468587", 1339007542, "468587", "{\n}", "Washington Hospital Main Lobby", "Non Controlled Substances Only", [ "{\"address\":\"2000 Mowry Ave\",\"city\":\"Fremont\",\"state\":\"CA\",\"zip\":\"94538\"}", "37.55797856266145", "-121.98061003460911", null, false ] ]
+, [ 25, "C73E8889-A5FA-4596-BE05-EB093B2C9A7E", 25, 1339007534, "468587", 1339007542, "468587", "{\n}", "Washington Hospital Community Health Resource Library", "Non Controlled Substances Only", [ "{\"address\":\"2500 Mowry Ave\",\"city\":\"Fremont\",\"state\":\"CA\",\"zip\":\"94538\"}", "37.55501598308541", "-121.98311122152239", null, false ] ]
+ ]
+}

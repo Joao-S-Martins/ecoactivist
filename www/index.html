@@ -1,0 +1,222 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Alameda County Eco Activist</title> 
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+	<link rel="stylesheet" type="text/css" href="js/jQuery.mobile-1.2.0/jquery.mobile-1.2.0.min.css">
+	<link rel="stylesheet" type="text/css" href="css/demo.css">
+	<script type="text/javascript" src="js/jQuery-1.8.3/jquery.min.js"></script>
+	<script type="text/javascript" src="js/preMobile.js"></script>
+	<script type="text/javascript" src="js/jQuery.mobile-1.2.0/jquery.mobile-1.2.0.min.js"></script>
+	<script type="text/javascript" src="js/dataLoader.js"></script>
+	<script type="text/javascript">
+		//$(document).ready(function(){
+		//	
+		//});
+	</script>
+</head> 
+
+<body> 
+<!-- HOME  -->
+	<div id="home" data-role="page" data-title="Eco Activist">
+		<div data-role="header">
+			<h1>Eco Activist</h1>
+			<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-mini="true">Home</a>
+			<a href="#settings" data-icon="gear" data-iconpos="notext" data-direction="slide" data-mini="true" data-rel="dialog" data-transistion="pop" data-position-to="window">Settings</a>
+		</div><!-- /header -->
+		<div data-role="content">
+			<div class="content-secondary" data-theme="c" data-dividertheme="b">
+				<!--p>Welcome to your one-stop source for green living in Alameda County</p-->
+				<ul data-role="listview" data-inset="true" data-theme="c" data-dividertheme="b">
+					<li data-role="list-divider">Eco Disposal</li>
+					<li><a href="#maplist" onClick="loadRecycling()">Recycling Centers</a></li>
+					<li><a href="#maplist" onClick="loadElectronics()">Electronic Recycling</a></li>
+					<li><a href="#maplist" onClick="loadClothing()">Clothing Donation</a></li>
+					<li><a href="#maplist" onClick="loadPharma()">Medication Disposal</a></li>
+					<li><a href="#maplist" onClick="loadBatteris()">Batteries and Bulbs</a></li>
+				</ul>
+			</div><!-- /content-secondary -->
+			<div class="content-primary">
+				<ul data-role="listview" data-inset="true" data-theme="c" data-dividertheme="f">
+					<li data-role="list-divider">Travel</li>
+					<li><a href="#bikemap" onClick="loadBike()">Bike Lanes</a></li>
+					<li><a href="#bikemap" onClick="loadCarpool()">Carpool</a></li>
+					<li data-role="list-divider">Commerce</li>
+					<li><a href="#maplist" onClick="loadBusiness()">Certified Green Businesses</a></li>
+					<li data-role="list-divider">Activism</li>
+					<li><a href="#list" onClick="loadReps()">Contact Your Representatives</a></li>
+				</ul>
+			</div><!-- /content-primary -->
+		</div>
+		<div data-role="footer" class="footer-docs" data-theme="c">
+			<p>&copy; 2012 Joao Martins except where noted</p>
+		</div>
+	</div><!-- /page home -->
+
+<!-- SETTINGS  -->
+	<div id="settings" data-role="page">
+		<div data-role="header">
+			<h1>Settings</h1>
+			<a href="" data-role="button" data-icon="check" data-direction="reverse" data-mini="true">Save</a>
+		</div><!-- /header -->
+		<div data-role="content">
+			<p>Language - English</p>
+			<div data-role="fieldcontain" class="ui-hide-label">
+				<label for="street">Street:</label>
+				<input type="text" name="street" id="street" value="" placeholder="Street" />
+			</div>
+			<div data-role="fieldcontain" class="ui-hide-label">
+				<label for="city">City:</label>
+				<input type="text" name="city" id="city" value="" placeholder="City" />
+			</div>
+			<div data-role="fieldcontain" class="ui-hide-label">
+				<label for="state">State:</label>
+				<input type="text" name="state" id="state" class="ui-disabled" value="California" placeholder="State" readonly />
+			</div>
+			<div data-role="fieldcontain" class="ui-hide-label">
+				<label for="zip">Zip:</label>
+				<input type="text" name="zip" id="zip" value="" placeholder="Zip" />
+			</div>
+			<div data-role="fieldcontain" class="ui-hide-label">
+				<label for="update">Auto-update:</label>
+				<select name="update" id="update" data-role="slider" data-highight="false">
+					<option value="on">On</option>
+					<option value="off" selected>Off</option>
+				</select>
+			</div>
+		</div><!-- content -->
+		<div data-role="footer">
+			<div data-role="controlgroup" data-type="horizontal">
+				<a href="#about" data-role="button" data-icon="info" data-direction="slide" data-mini="true" data-rel="dialog" data-transistion="pop" data-position-to="window">About</a>
+				<a href="#legal" data-role="button" data-icon="star" class="" data-direction="slide" data-mini="true" data-rel="dialog" data-transistion="pop" data-position-to="window">Legal</a>
+			</div>
+		</div>
+	</div><!-- /page settings -->
+
+<!-- ABOUT  -->
+	<div id="about" data-role="page">
+		<div data-role="header">
+			<h1>About</h1>
+		</div><!-- /header -->
+		<div data-role="content">
+			<p>Version 0.9 Beta</p>
+		</div><!-- content -->
+	</div><!-- /page about -->
+
+<!-- LEGAL  -->
+	<div id="legal" data-role="page">
+		<div data-role="header">
+			<h1>Legal</h1>
+		</div><!-- /header -->
+		<div data-role="content">
+			<p>All rights reserved except where noted. Your information will not be shared, but may be stored on this device. This application and service is provided free and without warranty.</p>
+		</div><!-- content -->
+	</div><!-- /page legal -->
+
+<!-- MAPLIST  -->
+	<div id="maplist" data-role="page" data-title="Map">
+		<div data-role="header">
+			<h1 id="maplistHeader">Maplist</h1>
+			<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-mini="true">Home</a>
+			<a href="#settings" data-icon="gear" data-iconpos="notext" data-direction="slide" data-mini="true" data-rel="dialog" data-transistion="pop" data-position-to="window">Settings</a>
+		</div><!-- /header -->
+		<div data-role="content">
+			<div class="content-secondary">
+				<img id="maplistImg" src="https://maps.googleapis.com/maps/api/staticmap?center=Madison, WI&amp;zoom=14&amp;size=288x200&amp;markers=Madison, WI&amp;sensor=false" height="200" width="288">
+				<p>Phone:</p>
+			</div><!-- /content-primary -->
+			<div class="content-primary" data-theme="c" data-dividertheme="b">
+				<!--p></p-->
+				<div id="mapCollapseList" data-role="collapsible-set">
+					
+				</div>
+			</div><!-- /content-secondary -->
+		</div>
+		<div data-role="footer" class="footer-docs" data-theme="c">
+			<p>&copy; 2012 Joao Martins except where noted</p>
+		</div>
+	</div><!-- /page maplist -->
+
+<!-- LIST  -->
+	<div id="list" data-role="page" data-title="Reps">
+		<div data-role="header">
+			<h1>List</h1>
+			<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-mini="true">Home</a>
+			<a href="#settings" data-icon="gear" data-iconpos="notext" data-direction="slide" data-mini="true" data-rel="dialog" data-transistion="pop" data-position-to="window">Settings</a>
+		</div><!-- /header -->
+		<div data-role="content">
+
+						
+<div data-role="collapsible-set">
+
+	<div data-role="collapsible">
+	<h3>City Council</h3>
+	<a href="#contact" data-direction="slide" data-rel="dialog" data-transistion="pop" data-position-to="window">Village Association</a>
+	</div>
+	
+	<div data-role="collapsible">
+	<h3>State Assembly</h3>
+	<a href="#contact" data-direction="slide" data-rel="dialog" data-transistion="pop" data-position-to="window">Bill Quirk</a>
+	</div>
+	
+	<div data-role="collapsible">
+	<h3>State Senate</h3>
+	<a href="#contact" data-direction="slide" data-rel="dialog" data-transistion="pop" data-position-to="window">Ellen Corbett</a>
+	</div>
+	
+	<div data-role="collapsible">
+	<h3>U.S. Representative</h3>
+	<a href="#contact" data-direction="slide" data-rel="dialog" data-transistion="pop" data-position-to="window">Rep. Fortney Stark</a>
+	</div>
+	
+	<div data-role="collapsible">
+	<h3>U.S. Senate</h3>
+	<a href="#contact" data-direction="slide" data-rel="dialog" data-transistion="pop" data-position-to="window">Sen. Barbara Boxer</a><br />
+	<a href="#contact" data-direction="slide" data-rel="dialog" data-transistion="pop" data-position-to="window">Sen. Dianne Feinstein</a>
+	</div>
+</div>
+	
+			
+		</div>
+		<div data-role="footer" class="footer-docs" data-theme="c">
+			<p>&copy; 2012 Joao Martins except where noted</p>
+		</div>
+	</div><!-- /page list -->
+	
+<!-- BIKEMAP  -->
+	<div id="bikemap" data-role="page" data-title="Map">
+		<div data-role="header">
+			<h1 id="bikemapHeader">Bike Map</h1>
+			<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-mini="true">Home</a>
+			<a href="#settings" data-icon="gear" data-iconpos="notext" data-direction="slide" data-mini="true" data-rel="dialog" data-transistion="pop" data-position-to="window">Settings</a>
+		</div><!-- /header -->
+		<div data-role="content">
+			<div class="content-secondary">
+				<p>How to plan your route:</p>
+				<p>... instructions</p>
+			</div><!-- /content-primary -->
+			<div class="content-primary" data-theme="c" data-dividertheme="b">
+				<img src="img/bikemap.jpg" alt="Bike route map" width="399" height="252">
+			</div><!-- /content-secondary -->
+		</div>
+		<div data-role="footer" class="footer-docs" data-theme="c">
+			<p>&copy; 2012 Joao Martins except where noted</p>
+		</div>
+	</div><!-- /page bikemap -->
+	
+<!-- CONTACT  -->
+	<div id="contact" data-role="Contact">
+		<div data-role="header">
+			<h1>Contact</h1>
+		</div><!-- /header -->
+		<div data-role="content">
+			<p>Office Address</p>
+			<p>Phone</p>
+			<p>Fax</p>
+			<p>Email</p>
+		</div><!-- content -->
+	</div><!-- /page contact -->
+</body>
+</html>

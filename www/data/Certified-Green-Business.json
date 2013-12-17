@@ -1,0 +1,1097 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "xvjk-s43e",
+      "name" : "CertifiedGreenBusiness",
+      "averageRating" : 0,
+      "createdAt" : 1342019502,
+      "displayType" : "geoRows",
+      "downloadCount" : 14,
+      "numberOfComments" : 0,
+      "oid" : 857894,
+      "publicationAppendEnabled" : false,
+      "publicationGroup" : 378470,
+      "publicationStage" : "published",
+      "signed" : false,
+      "tableId" : 378470,
+      "totalTimesRated" : 0,
+      "viewCount" : 0,
+      "viewLastModified" : 1342019502,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 13065019,
+        "name" : "City",
+        "dataTypeName" : "text",
+        "fieldName" : "city",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3435056,
+        "cachedContents" : {
+          "non_null" : 514,
+          "smallest" : "Alameda",
+          "null" : 0,
+          "largest" : "Union City",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Berkeley"
+          }, {
+            "count" : 19,
+            "item" : "Hayward"
+          }, {
+            "count" : 18,
+            "item" : "Oakland"
+          }, {
+            "count" : 17,
+            "item" : "Fremont"
+          }, {
+            "count" : 16,
+            "item" : "Albany"
+          }, {
+            "count" : 15,
+            "item" : "Union City"
+          }, {
+            "count" : 14,
+            "item" : "Alameda"
+          }, {
+            "count" : 13,
+            "item" : "Pleasanton"
+          }, {
+            "count" : 12,
+            "item" : "Livermore"
+          }, {
+            "count" : 11,
+            "item" : "Emeryville"
+          }, {
+            "count" : 10,
+            "item" : "San Leandro"
+          }, {
+            "count" : 9,
+            "item" : "Newark"
+          }, {
+            "count" : 8,
+            "item" : "Dublin"
+          }, {
+            "count" : 7,
+            "item" : "Castro Valley"
+          }, {
+            "count" : 6,
+            "item" : "San Lorenzo"
+          }, {
+            "count" : 5,
+            "item" : "Piedmont"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 13065018,
+        "name" : "Company",
+        "dataTypeName" : "text",
+        "fieldName" : "company",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3435055,
+        "cachedContents" : {
+          "non_null" : 514,
+          "smallest" : "1-800-DryClean of Dublin",
+          "null" : 0,
+          "largest" : "Zocalo Coffeehouse",
+          "top" : [ {
+            "count" : 20,
+            "item" : "City of Pleasanton Fleet Maintenance"
+          }, {
+            "count" : 19,
+            "item" : "Christine Buck Communications"
+          }, {
+            "count" : 18,
+            "item" : "Chef-K"
+          }, {
+            "count" : 17,
+            "item" : "California State University East Bay/The Oakland Center"
+          }, {
+            "count" : 16,
+            "item" : "Caffe Mediterraneum"
+          }, {
+            "count" : 15,
+            "item" : "Cafe Trieste"
+          }, {
+            "count" : 14,
+            "item" : "Cafe Gratitude"
+          }, {
+            "count" : 13,
+            "item" : "Cactus Taqueria - Solano"
+          }, {
+            "count" : 12,
+            "item" : "Brewed Awakening"
+          }, {
+            "count" : 11,
+            "item" : "Bread Workshop"
+          }, {
+            "count" : 10,
+            "item" : "Borden Lighting"
+          }, {
+            "count" : 9,
+            "item" : "Berkeley Natural Grocery Company"
+          }, {
+            "count" : 8,
+            "item" : "Berkeley Motor Works"
+          }, {
+            "count" : 7,
+            "item" : "Berkeley Minicar"
+          }, {
+            "count" : 6,
+            "item" : "Bay Street Emeryville"
+          }, {
+            "count" : 5,
+            "item" : "Barney's Gourmet Hamburgers - Solano"
+          }, {
+            "count" : 4,
+            "item" : "Baker-Vilar Architects"
+          }, {
+            "count" : 3,
+            "item" : "Baja Taqueria"
+          }, {
+            "count" : 2,
+            "item" : "Arts Automotive"
+          }, {
+            "count" : 1,
+            "item" : "Aramark Uniform Services"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 13065020,
+        "name" : "Certified_",
+        "dataTypeName" : "date",
+        "fieldName" : "certified",
+        "position" : 2,
+        "renderTypeName" : "date",
+        "tableColumnId" : 3435057,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 514
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 13065021,
+        "name" : "Address",
+        "dataTypeName" : "text",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3435058,
+        "cachedContents" : {
+          "non_null" : 514,
+          "smallest" : "10000 Skyline Blvd.",
+          "null" : 0,
+          "largest" : "999 Montague St.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2600 Durant Ave."
+          }, {
+            "count" : 19,
+            "item" : "1131 Bay St."
+          }, {
+            "count" : 18,
+            "item" : "909 Marina Village Pkwy, #146"
+          }, {
+            "count" : 17,
+            "item" : "1000 Broadway, Suite 109"
+          }, {
+            "count" : 16,
+            "item" : "2475 Telegraph Ave."
+          }, {
+            "count" : 15,
+            "item" : "2500 San Pablo Ave."
+          }, {
+            "count" : 14,
+            "item" : "1730 Shattuck Ave."
+          }, {
+            "count" : 13,
+            "item" : "1881 Solano Avenue"
+          }, {
+            "count" : 12,
+            "item" : "1807 Euclid Ave."
+          }, {
+            "count" : 11,
+            "item" : "1398 University Ave."
+          }, {
+            "count" : 10,
+            "item" : "999 Montague St."
+          }, {
+            "count" : 9,
+            "item" : "1336 Gilman St."
+          }, {
+            "count" : 8,
+            "item" : "736 San Pablo Ave."
+          }, {
+            "count" : 7,
+            "item" : "2498 San Pablo Ave."
+          }, {
+            "count" : 6,
+            "item" : "5616 Bay St."
+          }, {
+            "count" : 5,
+            "item" : "1591 Solano Ave."
+          }, {
+            "count" : 4,
+            "item" : "1516 Park Ave."
+          }, {
+            "count" : 3,
+            "item" : "4070 Piedmont Ave."
+          }, {
+            "count" : 2,
+            "item" : "2871 San Pablo Ave."
+          }, {
+            "count" : 1,
+            "item" : "330 Chestnut St."
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 13065022,
+        "name" : "ZipCode",
+        "dataTypeName" : "number",
+        "fieldName" : "zipcode",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 3435059,
+        "cachedContents" : {
+          "non_null" : 514,
+          "smallest" : "0",
+          "sum" : "48450468",
+          "null" : 0,
+          "average" : "94261.61089494163",
+          "largest" : "94720",
+          "top" : [ {
+            "count" : 20,
+            "item" : "94705"
+          }, {
+            "count" : 19,
+            "item" : "94541"
+          }, {
+            "count" : 18,
+            "item" : "94607"
+          }, {
+            "count" : 17,
+            "item" : "94612"
+          }, {
+            "count" : 16,
+            "item" : "94538"
+          }, {
+            "count" : 15,
+            "item" : "94603"
+          }, {
+            "count" : 14,
+            "item" : "94706"
+          }, {
+            "count" : 13,
+            "item" : "94587"
+          }, {
+            "count" : 12,
+            "item" : "94710"
+          }, {
+            "count" : 11,
+            "item" : "94501"
+          }, {
+            "count" : 10,
+            "item" : "94703"
+          }, {
+            "count" : 9,
+            "item" : "94566"
+          }, {
+            "count" : 8,
+            "item" : "94702"
+          }, {
+            "count" : 7,
+            "item" : "94618"
+          }, {
+            "count" : 6,
+            "item" : "94609"
+          }, {
+            "count" : 5,
+            "item" : "94551"
+          }, {
+            "count" : 4,
+            "item" : "94611"
+          }, {
+            "count" : 3,
+            "item" : "94550"
+          }, {
+            "count" : 2,
+            "item" : "94709"
+          }, {
+            "count" : 1,
+            "item" : "94704"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 13065023,
+        "name" : "Business_P",
+        "dataTypeName" : "text",
+        "fieldName" : "business_p",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3435060,
+        "cachedContents" : {
+          "non_null" : 514,
+          "smallest" : "",
+          "null" : 0,
+          "largest" : "9259681121",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5108094120"
+          }, {
+            "count" : 19,
+            "item" : "5105498790"
+          }, {
+            "count" : 18,
+            "item" : "5105222909"
+          }, {
+            "count" : 17,
+            "item" : "5102087004"
+          }, {
+            "count" : 16,
+            "item" : "5105491128"
+          }, {
+            "count" : 15,
+            "item" : "5105485198"
+          }, {
+            "count" : 14,
+            "item" : "5107254418"
+          }, {
+            "count" : 13,
+            "item" : "5105281881"
+          }, {
+            "count" : 12,
+            "item" : "5105408865"
+          }, {
+            "count" : 11,
+            "item" : "5106499740"
+          }, {
+            "count" : 10,
+            "item" : "5103570171"
+          }, {
+            "count" : 9,
+            "item" : "5105262456"
+          }, {
+            "count" : 8,
+            "item" : "5105281214"
+          }, {
+            "count" : 7,
+            "item" : "5108411221"
+          }, {
+            "count" : 6,
+            "item" : "5106554002"
+          }, {
+            "count" : 5,
+            "item" : "510-526-8185"
+          }, {
+            "count" : 4,
+            "item" : "5105952260"
+          }, {
+            "count" : 3,
+            "item" : "5105472252"
+          }, {
+            "count" : 2,
+            "item" : "5105407093"
+          }, {
+            "count" : 1,
+            "item" : "5108359285"
+          } ]
+        },
+        "format" : {
+        }
+      }, {
+        "id" : 13065024,
+        "name" : "Sector",
+        "dataTypeName" : "text",
+        "fieldName" : "sector",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 3435061,
+        "cachedContents" : {
+          "non_null" : 514,
+          "smallest" : "Auto Body",
+          "null" : 0,
+          "largest" : "Winery",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Dentist"
+          }, {
+            "count" : 19,
+            "item" : "Landscaper"
+          }, {
+            "count" : 18,
+            "item" : "Office/Retail"
+          }, {
+            "count" : 17,
+            "item" : "Printer"
+          }, {
+            "count" : 16,
+            "item" : "Cleaning Services"
+          }, {
+            "count" : 15,
+            "item" : "Small Manufacturer"
+          }, {
+            "count" : 14,
+            "item" : "Schools"
+          }, {
+            "count" : 13,
+            "item" : "Restaurant"
+          }, {
+            "count" : 12,
+            "item" : "Auto Repair"
+          }, {
+            "count" : 11,
+            "item" : "Hotel"
+          }, {
+            "count" : 10,
+            "item" : "Home Remodel"
+          }, {
+            "count" : 9,
+            "item" : "Winery"
+          }, {
+            "count" : 8,
+            "item" : "Garment Cleaning"
+          }, {
+            "count" : 7,
+            "item" : "Solar Electric"
+          }, {
+            "count" : 6,
+            "item" : "Auto Body"
+          }, {
+            "count" : 5,
+            "item" : "Property Managers"
+          }, {
+            "count" : 4,
+            "item" : "previously certified business"
+          } ]
+        },
+        "format" : {
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "owner" : {
+        "id" : "7439-qs8u",
+        "displayName" : "Alameda County",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1345497861,
+        "roleName" : "publisher",
+        "screenName" : "Alameda County",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "7439-qs8u",
+        "displayName" : "Alameda County",
+        "emailUnsubscribed" : false,
+        "privacyControl" : "login",
+        "profileLastModified" : 1345497861,
+        "roleName" : "publisher",
+        "screenName" : "Alameda County",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "geo_shn7-wzi2-1.1", null, null, null, null, null, null, "Berkeley", "Tala Aziz, DDS", null, "2999 Regent Street, Suite 525", "94705", "510-548-4084", "Dentist" ]
+, [ 2, "geo_shn7-wzi2-1.2", null, null, null, null, null, null, "Berkeley", "Ariane Terlet, DDS", null, "2999 Regent Street, Suite 525", "94705", "510-548-4084", "Dentist" ]
+, [ 3, "geo_shn7-wzi2-1.3", null, null, null, null, null, null, "Hayward", "Paradise Designs Plantscapes Inc", null, "2666 D Street", "94541", "510 861-0408", "Landscaper" ]
+, [ 4, "geo_shn7-wzi2-1.4", null, null, null, null, null, null, "Oakland", "EDesignC", null, "212 9th St.", "94607", "510-433-0913", "Office/Retail" ]
+, [ 5, "geo_shn7-wzi2-1.5", null, null, null, null, null, null, "Oakland", "Women's Initiative for Self-Employment", null, "519 17th St. Suite 110", "94612", "510-287-3106", "Office/Retail" ]
+, [ 6, "geo_shn7-wzi2-1.6", null, null, null, null, null, null, "Fremont", "Landmark Labels Manufacturing Inc.", null, "47623 Fremont Blvd", "94538", "510-651-5551", "Printer" ]
+, [ 7, "geo_shn7-wzi2-1.7", null, null, null, null, null, null, "Fremont", "The Pack Leader", null, "2998 Park Place Common", "94536", "510-894-3548", "Cleaning Services" ]
+, [ 8, "geo_shn7-wzi2-1.8", null, null, null, null, null, null, "Fremont", "Kate's Caring Gifts", null, "36094 Asquith Place", "94536", "510-656-4438", "Office/Retail" ]
+, [ 9, "geo_shn7-wzi2-1.9", null, null, null, null, null, null, "Hayward", "City of Hayward - Weekes Branch Library", null, "27300 Patrick Ave", "94544", "510-583-4713", "Office/Retail" ]
+, [ 10, "geo_shn7-wzi2-1.10", null, null, null, null, null, null, "Hayward", "City of Hayward - Main Library", null, "835 C Street", "94541", "510-583-4713", "Office/Retail" ]
+, [ 11, "geo_shn7-wzi2-1.11", null, null, null, null, null, null, "Oakland", "Gerlind Institute for Cultural Studies", null, "2128 108th Ave.", "94603", "5109315805", "Office/Retail" ]
+, [ 12, "geo_shn7-wzi2-1.12", null, null, null, null, null, null, "Albany", "I Song Orthodontics", null, "1301 Solano Ave. Suite 101", "94706", "510-528-2220", "Dentist" ]
+, [ 13, "geo_shn7-wzi2-1.13", null, null, null, null, null, null, "Union City", "Union Sanitary District", null, "5072 Benson Road", "94587", "510-477-7500", "Office/Retail" ]
+, [ 14, "geo_shn7-wzi2-1.14", null, null, null, null, null, null, "Berkeley", "Steven Grover & Associates", null, "800 Heinz Ave #11", "94710", "510-549-9258", "Office/Retail" ]
+, [ 15, "geo_shn7-wzi2-1.15", null, null, null, null, null, null, "Berkeley", "Berkeley Periodontics and Dental Implants", null, "2999 Regent Street, Suite 403", "94705", "510-843-6341", "Dentist" ]
+, [ 16, "geo_shn7-wzi2-1.16", null, null, null, null, null, null, "Alameda", "Litho Process", null, "1818 Park Street", "94501", "510-864-1253", "Printer" ]
+, [ 17, "geo_shn7-wzi2-1.17", null, null, null, null, null, null, "Oakland", "Peerless Coffee & Tea Company", null, "260 Oak St.", "94607", "5107631763", "Small Manufacturer" ]
+, [ 18, "geo_shn7-wzi2-1.18", null, null, null, null, null, null, "Berkeley", "Berkwood Hedge School", null, "1809 Bancroft Wy.", "94703", "5108836995", "Schools" ]
+, [ 19, "geo_shn7-wzi2-1.19", null, null, null, null, null, null, "Albany", "Five Little Monkeys", null, "1224 Solano Ave.", "94706", "5105284411", "Office/Retail" ]
+, [ 20, "geo_shn7-wzi2-1.20", null, null, null, null, null, null, "Berkeley", "The Treehouse Green Gifts", null, "2935 College Ave", "94705", "5102049292", "Office/Retail" ]
+, [ 21, "geo_shn7-wzi2-1.21", null, null, null, null, null, null, "Pleasanton", "Alameda County Supervisor Scott Haggerty's Pleasanton Office District 1", null, "4501 Pleasanton Avenue", "94566", "925-551-6995", "Office/Retail" ]
+, [ 22, "geo_shn7-wzi2-1.22", null, null, null, null, null, null, "Oakland", "Koreatown Northgate CBD", null, "2633 Telegraph Avenue, Suite 107", "94612", "510-343-5439", "Office/Retail" ]
+, [ 23, "geo_shn7-wzi2-1.23", null, null, null, null, null, null, "Berkeley", "Robin T. Levi, DDS", null, "2999 Regent St, # 525", "94705", "510-548-5692", "Dentist" ]
+, [ 24, "geo_shn7-wzi2-1.24", null, null, null, null, null, null, "Hayward", "xpedx, an International Paper Company", null, "30535 Huntwood Avenue", "94044", "800-222-5475", "Office/Retail" ]
+, [ 25, "geo_shn7-wzi2-1.25", null, null, null, null, null, null, "Berkeley", "Sea Salt", null, "2512 San Pablo Ave", "94702", "5108831720", "Restaurant" ]
+, [ 26, "geo_shn7-wzi2-1.26", null, null, null, null, null, null, "Oakland", "Torchio's Auto Repair", null, "2344 Webster Street", "94612", "510-451-3272", "Auto Repair" ]
+, [ 27, "geo_shn7-wzi2-1.27", null, null, null, null, null, null, "Oakland", "Safety1st", null, "1035 7th Street", "94607", "510-844-2444", "Cleaning Services" ]
+, [ 28, "geo_shn7-wzi2-1.28", null, null, null, null, null, null, "Berkeley", "Holiday Inn Express & Suites", null, "1175 University Avenue", "94710", "510-548-1700", "Hotel" ]
+, [ 29, "geo_shn7-wzi2-1.29", null, null, null, null, null, null, "Berkeley", "Mokka", null, "3075 Telegraph Avenue", "94705", "510-848-8909", "Restaurant" ]
+, [ 30, "geo_shn7-wzi2-1.30", null, null, null, null, null, null, "Oakland", "Green Copy", null, "5267 Broadway", "94618", "510-547-0646", "Office/Retail" ]
+, [ 31, "geo_shn7-wzi2-1.31", null, null, null, null, null, null, "Alameda", "East Bay Regional Park District, Exhibit Design", null, "1252 McKay Avenue", "94501", "510-544-3190", "Office/Retail" ]
+, [ 32, "geo_shn7-wzi2-1.32", null, null, null, null, null, null, "Berkeley", "Thrive Eco Solutions Inc", null, "1136 Parker St", "94702", "510-363-5055", "Office/Retail" ]
+, [ 33, "geo_shn7-wzi2-1.33", null, null, null, null, null, null, "Berkeley", "sameteam.us", null, "1314 harmon st", "94702", "5108150691", "Office/Retail" ]
+, [ 34, "geo_shn7-wzi2-1.34", null, null, null, null, null, null, "Fremont", "Dental Comfort", null, "4150 Walnut Ave", "94538", "510-490-4300", "Dentist" ]
+, [ 35, "geo_shn7-wzi2-1.35", null, null, null, null, null, null, "Oakland", "Temescal Telegraph Community Association (BID)", null, "510 49th Street, #203", "94609", "510-860-7327", "Office/Retail" ]
+, [ 36, "geo_shn7-wzi2-1.36", null, null, null, null, null, null, "Fremont", "dFares", null, "43575 Mission Blvd., Ste. 427", "94539", "5102702127", "Office/Retail" ]
+, [ 37, "geo_shn7-wzi2-1.37", null, null, null, null, null, null, "Berkeley", "AHA - Affordable Housing Associates", null, "1250 Addison Street, Suite G", "94702", "5106498500", "Office/Retail" ]
+, [ 38, "geo_shn7-wzi2-1.38", null, null, null, null, null, null, "Alameda", "Angela Klein, Architect", null, "2622 Lincoln Avenue", "94501", "5102052594", "Home Remodel" ]
+, [ 39, "geo_shn7-wzi2-1.39", null, null, null, null, null, null, "Oakland", "Prevention Institute", null, "221 Oak Street", "94607", "510-444-7738", "Office/Retail" ]
+, [ 40, "geo_shn7-wzi2-1.40", null, null, null, null, null, null, "Oakland", "Shred Works, Inc.", null, "455 High St.", "94601", "510-729-7110", "Office/Retail" ]
+, [ 41, "geo_shn7-wzi2-1.41", null, null, null, null, null, null, "Berkeley", "Levitch Associates", null, "1029 Heinz Avenue", "94706", "5108456941", "Home Remodel" ]
+, [ 42, "geo_shn7-wzi2-1.42", null, null, null, null, null, null, "Livermore", "Electro Imaging Systems (EIS), Inc.", null, "6553 Las Positas Rd.", "94551", "9253714100", "Office/Retail" ]
+, [ 43, "geo_shn7-wzi2-1.43", null, null, null, null, null, null, "Oakland", "The Rare Bird", null, "3883 Piedmont Ave", "94611", "(510) 653-2473", "Office/Retail" ]
+, [ 44, "geo_shn7-wzi2-1.44", null, null, null, null, null, null, "Berkeley", "Berkeley Craftsmen GCI", null, "2530 Tenth Street Suite 2", "94710", "510-549-3076", "Home Remodel" ]
+, [ 45, "geo_shn7-wzi2-1.45", null, null, null, null, null, null, "Berkeley", "Devco-Design & Construction & Energy Management", null, "3195 Adeline Street", "94703", "510-652-6066", "Home Remodel" ]
+, [ 46, "geo_shn7-wzi2-1.46", null, null, null, null, null, null, "Berkeley", "Amirali Rahmatian DDS Inc", null, "3010 Colby Street Suite 117", "94705", "5108487239", "Dentist" ]
+, [ 47, "geo_shn7-wzi2-1.47", null, null, null, null, null, null, "Alameda", "Crab Cove Visitor Center", null, "1252 McKay Ave", "94501", "510-544-3187", "Office/Retail" ]
+, [ 48, "geo_shn7-wzi2-1.48", null, null, null, null, null, null, "Oakland", "Mechanics Bank - Oakland", null, "1999 Harrison Street, Suite 100", "94612", "510-251-6100", "Office/Retail" ]
+, [ 49, "geo_shn7-wzi2-1.49", null, null, null, null, null, null, "Oakland", "Show & Tell", null, "500 12th st #139", "94612", "510 912 4118", "Office/Retail" ]
+, [ 50, "geo_shn7-wzi2-1.50", null, null, null, null, null, null, "Oakland", "Sacred Wheel Cheese Shop", null, "4935 Shattuck Avenue", "94609", "510.653.1353", "Restaurant" ]
+, [ 51, "geo_shn7-wzi2-1.51", null, null, null, null, null, null, "Berkeley", "Greenerprinter.com", null, "2800 7th Street", "94710", "510-898-0000", "Printer" ]
+, [ 52, "geo_shn7-wzi2-1.52", null, null, null, null, null, null, "Oakland", "Rockridge Home", null, "5418 college ave", "94618", "510-420-1928", "Office/Retail" ]
+, [ 53, "geo_shn7-wzi2-1.53", null, null, null, null, null, null, "Livermore", "Label Innovators", null, "1001 Shannon Court # D", "94550", "925-449-1419", "Printer" ]
+, [ 54, "geo_shn7-wzi2-1.54", null, null, null, null, null, null, "Oakland", "Astraea Bella, LCSW", null, "445 Bellevue Ave., Suite 104", "94610", "510-290-8303", "Office/Retail" ]
+, [ 55, "geo_shn7-wzi2-1.55", null, null, null, null, null, null, "Hayward", "SnapTint.com", null, "3723 Arbutus Ct.", "94542", "800-880-1384", "Office/Retail" ]
+, [ 56, "geo_shn7-wzi2-1.56", null, null, null, null, null, null, "Berkeley", "Mechanics Bank - Hearst", null, "755 Hearst Ave", "94710", "510-647-1650", "Office/Retail" ]
+, [ 57, "geo_shn7-wzi2-1.57", null, null, null, null, null, null, "Oakland", "Modern Express Courier", null, "750 4th St", "94607", "510-444-6245", "Office/Retail" ]
+, [ 58, "geo_shn7-wzi2-1.58", null, null, null, null, null, null, "Berkeley", "The Local Butcher Shop", null, "1600 Shattuck Ave. Ste. 120", "94709", "510-845-6328", "Restaurant" ]
+, [ 59, "geo_shn7-wzi2-1.59", null, null, null, null, null, null, "Berkeley", "Essentia", null, "1799D 4th Street", "94710", "510-525-6300", "Office/Retail" ]
+, [ 60, "geo_shn7-wzi2-1.60", null, null, null, null, null, null, "Oakland", "The East Bay Depot for Creative Reuse", null, "4695 Telegraph Ave", "94609", "510-547-6470", "Office/Retail" ]
+, [ 61, "geo_shn7-wzi2-1.61", null, null, null, null, null, null, "Berkeley", "Zatar Restaurant and Catering", null, "1981 Shattuck Ave.", "94704", "510-841-1981", "Restaurant" ]
+, [ 62, "geo_shn7-wzi2-1.62", null, null, null, null, null, null, "Albany", "Albany YMCA", null, "921 Kains Avenue", "94706", "510-525-1130", "Hotel" ]
+, [ 63, "geo_shn7-wzi2-1.63", null, null, null, null, null, null, "Oakland", "Sirona Fuels", null, "851 49th Avenue", "94601", "510-868-9229", "Small Manufacturer" ]
+, [ 64, "geo_shn7-wzi2-1.64", null, null, null, null, null, null, "Union City", "Kit Kitayama Elementary - New Haven Unified School District", null, "1959 Sunsprite Drive", "94587", "510-475-3982", "Schools" ]
+, [ 65, "geo_shn7-wzi2-1.65", null, null, null, null, null, null, "Oakland", "AHA - The Orchards On Foothill", null, "2719 Foothill Blvd", "94601", "510-437-9750", "Office/Retail" ]
+, [ 66, "geo_shn7-wzi2-1.66", null, null, null, null, null, null, "Berkeley", "Inkworks Press", null, "2827 Seventh Street", "94710", "510-845-7111", "Printer" ]
+, [ 67, "geo_shn7-wzi2-1.67", null, null, null, null, null, null, "Fremont", "Cellotape Inc.", null, "47623 Fremont Blvd", "94538", "510-651-5551", "Small Manufacturer" ]
+, [ 68, "geo_shn7-wzi2-1.68", null, null, null, null, null, null, "Emeryville", "Siegel & Strain Architects", null, "1295 59th Street", "94608", "510-547-8092", "Office/Retail" ]
+, [ 69, "geo_shn7-wzi2-1.69", null, null, null, null, null, null, "Oakland", "Crossroads Trading Company - College", null, "5901 College ave", "94618", "510-420-1957", "Office/Retail" ]
+, [ 70, "geo_shn7-wzi2-1.70", null, null, null, null, null, null, "Pleasanton", "Sensiba San Filippo LLP", null, "4900 Hopyard Rd, Suite 200", "94588", "925-271-8700", "Office/Retail" ]
+, [ 71, "geo_shn7-wzi2-1.71", null, null, null, null, null, null, "Pleasanton", "Centerpointe Presbyterian Church", null, "3410 Cornerstone Court", "94566", "925-846-4436", "Schools" ]
+, [ 72, "geo_shn7-wzi2-1.72", null, null, null, null, null, null, "Livermore", "Costco Wholesale", null, "2820 Independence Drive", "94551", "925-456-7200", "Office/Retail" ]
+, [ 73, "geo_shn7-wzi2-1.73", null, null, null, null, null, null, "Berkeley", "DoubleTree by Hilton Berkeley Marina", null, "200 Marina Blvd", "94710", "5105487920", "Hotel" ]
+, [ 74, "geo_shn7-wzi2-1.74", null, null, null, null, null, null, "Oakland", "Liz Gillem MPT, ATC, CSCS", null, "391 51st Street", "94609", "510-708-8703", "Office/Retail" ]
+, [ 75, "geo_shn7-wzi2-1.75", null, null, null, null, null, null, "Berkeley", "Nabolom Bakery", null, "2708 Russell Street", "94705", "510-845-2253", "Restaurant" ]
+, [ 76, "geo_shn7-wzi2-1.76", null, null, null, null, null, null, "Fremont", "Satellite Housing - Fremont Oak Gardens", null, "2681 Driscoll Road", "94539", "510-490-4013", "Hotel" ]
+, [ 77, "geo_shn7-wzi2-1.77", null, null, null, null, null, null, "Emeryville", "Clif Bar & Company HQ", null, "1451 66 Street", "94608", "510-596-6300", "Office/Retail" ]
+, [ 78, "geo_shn7-wzi2-1.78", null, null, null, null, null, null, "Berkeley", "Bancroft Hotel", null, "2680 Bancroft Way", "94704", "510-549-1000", "Hotel" ]
+, [ 79, "geo_shn7-wzi2-1.79", null, null, null, null, null, null, "Livermore", "Cedar Mountain Winery, Inc", null, "7000 Tesla Road", "94550", "925 3736636", "Winery" ]
+, [ 80, "geo_shn7-wzi2-1.80", null, null, null, null, null, null, "San Leandro", "Dakota Press", null, "14400 Doolittle Drive", "94577", "510.895.1300", "Printer" ]
+, [ 81, "geo_shn7-wzi2-1.81", null, null, null, null, null, null, "Union City", "Emerald Packaging, Inc", null, "33050 Western Avenue", "94587", "510-429-5700", "Small Manufacturer" ]
+, [ 82, "geo_shn7-wzi2-1.82", null, null, null, null, null, null, "Alameda", "Alameda Municipal Power City of Alameda", null, "2000 Grand Street", "94501", "510-748-3947", "Small Manufacturer" ]
+, [ 83, "geo_shn7-wzi2-1.83", null, null, null, null, null, null, "Berkeley", "Aspect Design Landscape", null, "1016 Cedar Street", "94710", "415-225-1211", "Landscaper" ]
+, [ 84, "geo_shn7-wzi2-1.84", null, null, null, null, null, null, "Berkeley", "Melissa Joy Manning", null, "1827 5th Street Suite B", "94710", "5106478440", "Office/Retail" ]
+, [ 85, "geo_shn7-wzi2-1.85", null, null, null, null, null, null, "Oakland", "ACC Environmental Consultants, Inc.", null, "7977 Capwell Dr., Ste. 100", "94621", "5106388400", "Office/Retail" ]
+, [ 86, "geo_shn7-wzi2-1.86", null, null, null, null, null, null, "Oakland", "Cook!", null, "3310 Peralta Street", "94608", "415-513 5328", "Restaurant" ]
+, [ 87, "geo_shn7-wzi2-1.87", null, null, null, null, null, null, "Berkeley", "eLock Technologies", null, "800 Heinz Ave #11", "94710", "510-549-2853", "Office/Retail" ]
+, [ 88, "geo_shn7-wzi2-1.88", null, null, null, null, null, null, "Berkeley", "Endodontic Care Center, Dr. James Y.S. Ho", null, "3017 Telegraph Ave #200", "94705", "510-848-2001", "Dentist" ]
+, [ 89, "geo_shn7-wzi2-1.89", null, null, null, null, null, null, "Newark", "Green Star Solution", null, "36262 Crystal Springs Dr", "94560", "5105740750", "Office/Retail" ]
+, [ 90, "geo_shn7-wzi2-1.90", null, null, null, null, null, null, "Berkeley", "Zachary's Pizza Solano", null, "1853 Solano Ave.", "94707", "510-525-6419", "Restaurant" ]
+, [ 91, "geo_shn7-wzi2-1.91", null, null, null, null, null, null, "Berkeley", "Cultivating Capital", null, "2150 Allston Way, #400", "94704", "510-485-9164", "Office/Retail" ]
+, [ 92, "geo_shn7-wzi2-1.92", null, null, null, null, null, null, "Pleasanton", "Pacific Color Graphics", null, "440 Boulder Ct 100D", "94566", "925-600-3008", "Printer" ]
+, [ 93, "geo_shn7-wzi2-1.93", null, null, null, null, null, null, "Albany", "Innate Chiropractic & Wellness Studio", null, "916A San Pablo Avenue", "94706", "510-528-5216", "Office/Retail" ]
+, [ 94, "geo_shn7-wzi2-1.94", null, null, null, null, null, null, "Dublin", "Dublin San Ramon Services District Administrative Office", null, "7051 Dublin Blvd.", "94568", "(925) 828-0515", "Office/Retail" ]
+, [ 95, "geo_shn7-wzi2-1.95", null, null, null, null, null, null, "Berkeley", "The Juice Bar Collective", null, "2114 Vine Street", "94709", "510-548-8473", "Restaurant" ]
+, [ 96, "geo_shn7-wzi2-1.96", null, null, null, null, null, null, "Berkeley", "The Planning Center | DC&E", null, "1625 shattuck avenue, suite 300", "94709", "510.848.3815", "Office/Retail" ]
+, [ 97, "geo_shn7-wzi2-1.97", null, null, null, null, null, null, "Berkeley", "MECHANICS BANK - Solano", null, "1801 SOLANO AVE", "94707", "510-559-2626", "Office/Retail" ]
+, [ 98, "geo_shn7-wzi2-1.98", null, null, null, null, null, null, "San Leandro", "Precision Graphics", null, "456 Davis Street", "94577", "(510) 357-6300", "Printer" ]
+, [ 99, "geo_shn7-wzi2-1.99", null, null, null, null, null, null, "Castro Valley", "CVSan (Castro Valley Sanitary District)", null, "20140 Marshall St.", "94546", "5105370757", "Office/Retail" ]
+, [ 100, "geo_shn7-wzi2-1.100", null, null, null, null, null, null, "Hayward", "Assemblymember Mary Hayashi", null, "22320 Foothill Blvd.", "94541", "510-583-8818", "Office/Retail" ]
+, [ 101, "geo_shn7-wzi2-1.101", null, null, null, null, null, null, "Oakland", "Sayre Building Performance", null, "10700 Lochard St", "94605", "5104031115", "Office/Retail" ]
+, [ 102, "geo_shn7-wzi2-1.102", null, null, null, null, null, null, "Hayward", "FolgerGraphics, Inc.", null, "21093 Forbes Avenue", "94545", "5108875656", "Printer" ]
+, [ 103, "geo_shn7-wzi2-1.103", null, null, null, null, null, null, "Oakland", "Align Chiropractic Center", null, "6239 College Ave, Suite 201", "94618", "510-654-2207", "Office/Retail" ]
+, [ 104, "geo_shn7-wzi2-1.104", null, null, null, null, null, null, "Berkeley", "The Bread Workshop, LLC", null, "1398 University Ave", "94702", "(510) 649-9735", "Restaurant" ]
+, [ 105, "geo_shn7-wzi2-1.105", null, null, null, null, null, null, "Berkeley", "People's Coffee & Tea", null, "2015 Shattuck Ave", "94704", "510-666-0666", "Restaurant" ]
+, [ 106, "geo_shn7-wzi2-1.106", null, null, null, null, null, null, "Fremont", "Green Leaf Cleaners", null, "3918 Decoto Rd", "94555", "(510)505-9000", "Garment Cleaning" ]
+, [ 107, "geo_shn7-wzi2-1.107", null, null, null, null, null, null, "Livermore", "First Street Ale House", null, "2106 First Street", "94550", "925-371-6588", "Restaurant" ]
+, [ 108, "geo_shn7-wzi2-1.108", null, null, null, null, null, null, "Berkeley", "Teleosis Institute", null, "863 Arlington Ave", "94707", "510-558-7285", "Office/Retail" ]
+, [ 109, "geo_shn7-wzi2-1.109", null, null, null, null, null, null, "Berkeley", "Gaumenkitzel", null, "2121 San Pablo Ave", "94702", "510-6475016", "Restaurant" ]
+, [ 110, "geo_shn7-wzi2-1.110", null, null, null, null, null, null, "Oakland", "Lim and Yabu, DDS, Inc.", null, "4174 Park Blvd., Suite A", "94602", "5105307000", "Dentist" ]
+, [ 111, "geo_shn7-wzi2-1.111", null, null, null, null, null, null, "Oakland", "Be Well Integral Healing Space", null, "401 29th St Suite 101", "94609", "510-836-0200", "Office/Retail" ]
+, [ 112, "geo_shn7-wzi2-1.112", null, null, null, null, null, null, "Berkeley", "Ackermans Servicing Volvos", null, "2220 San Pablo Ave", "94702", "5105499330", "Auto Repair" ]
+, [ 113, "geo_shn7-wzi2-1.113", null, null, null, null, null, null, "Oakland", "Wine on Piedmont", null, "4183 Piedmont Ave.", "94611", "510-595-9463", "Office/Retail" ]
+, [ 114, "geo_shn7-wzi2-1.114", null, null, null, null, null, null, "Berkeley", "Grandma's Garage", null, "821 Gilman St.", "94710", "510-527-1065", "Auto Repair" ]
+, [ 115, "geo_shn7-wzi2-1.115", null, null, null, null, null, null, "Berkeley", "Arkin-Tilt Architects", null, "1101 8th Street , Suite 180", "94710", "510-528-9830", "Home Remodel" ]
+, [ 116, "geo_shn7-wzi2-1.116", null, null, null, null, null, null, "Pleasanton", "Pleasanton Corporate Commons Managed by Hines", null, "6200-6230 Stoneridge Mall Road", "94588", "925-734-8400", "Office/Retail" ]
+, [ 117, "geo_shn7-wzi2-1.117", null, null, null, null, null, null, "Berkeley", "Grub N Go", null, "2109 Allston Way", "94704", "510-540-5282", "Restaurant" ]
+, [ 118, "geo_shn7-wzi2-1.118", null, null, null, null, null, null, "Berkeley", "A1 Sun, Inc. Superb Solar Installation", null, "2015 Yolo Ave.", "94707", "5105265715", "Solar Electric" ]
+, [ 119, "geo_shn7-wzi2-1.119", null, null, null, null, null, null, "Berkeley", "Addis Creson", null, "2515 Ninth Street", "94710", "510-704-7500", "Office/Retail" ]
+, [ 120, "geo_shn7-wzi2-1.120", null, null, null, null, null, null, "Berkeley", "California Rose Catering Inc", null, "1012 Grayson Street #B", "94710", "510 644 4473", "Restaurant" ]
+, [ 121, "geo_shn7-wzi2-1.121", null, null, null, null, null, null, "Castro Valley", "Swiss Delices", null, "20669 Santa Maria Av.", "94546", "510-881-8669", "Restaurant" ]
+, [ 122, "geo_shn7-wzi2-1.122", null, null, null, null, null, null, "Berkeley", "Bartle Wells Associates", null, "1889 Alcatraz Avenue", "94703", "510.6533.399", "Office/Retail" ]
+, [ 123, "geo_shn7-wzi2-1.123", null, null, null, null, null, null, "Albany", "Sue Oda Landscape Architect", null, "617 Evelyn Avenue", "94706", "510-684-8789", "Landscaper" ]
+, [ 124, "geo_shn7-wzi2-1.124", null, null, null, null, null, null, "Newark", "Gratitude Gourmet", null, "36262 Crystal Springs Dr.", "94560", "4089100055", "Office/Retail" ]
+, [ 125, "geo_shn7-wzi2-1.125", null, null, null, null, null, null, "Berkeley", "FA-LA-LA LLC", null, "2518-B Durant Ave", "94704", "510-704-0454", "Restaurant" ]
+, [ 126, "geo_shn7-wzi2-1.126", null, null, null, null, null, null, "Oakland", "City of Oakland 81st Avenue Library", null, "1021 81st Avenue", "94621", "510-238-6259", "Office/Retail" ]
+, [ 127, "geo_shn7-wzi2-1.127", null, null, null, null, null, null, "Emeryville", "Aspera Inc.", null, "5900 Hollis St. Ste. E", "94608", "510-849-2386", "Office/Retail" ]
+, [ 128, "geo_shn7-wzi2-1.128", null, null, null, null, null, null, "Berkeley", "Mike's Bikes", null, "2161 University Avenue", "94704", "510-845-2453", "Office/Retail" ]
+, [ 129, "geo_shn7-wzi2-1.129", null, null, null, null, null, null, "Berkeley", "Stella Nonna, Inc.", null, "2315 Dwight Way", "94704", "510-845-8787", "Restaurant" ]
+, [ 130, "geo_shn7-wzi2-1.130", null, null, null, null, null, null, "Berkeley", "Oil Changer #403", null, "2246 San Pablo Ave.", "94702", "5108413731", "Auto Repair" ]
+, [ 131, "geo_shn7-wzi2-1.131", null, null, null, null, null, null, "San Leandro", "City of San Leandro PWD Equipment Maintenance", null, "14200 Chapman Rd", "94578", "510-577-3447", "Auto Repair" ]
+, [ 132, "geo_shn7-wzi2-1.132", null, null, null, null, null, null, "Fremont", "Instor Solutions", null, "44053 South Grimmer Blvd", "94538", "510 490 7475", "Office/Retail" ]
+, [ 133, "geo_shn7-wzi2-1.133", null, null, null, null, null, null, "Oakland", "Mercurius", null, "3224 Brookdale Ave.", "94602", "510-282-7399", "Office/Retail" ]
+, [ 134, "geo_shn7-wzi2-1.134", null, null, null, null, null, null, "Hayward", "Marclean USA", null, "26250 Industrial Blvd. Suite 112", "94545", "510-331-9195", "Cleaning Services" ]
+, [ 135, "geo_shn7-wzi2-1.135", null, null, null, null, null, null, "Berkeley", "Resources for Community Develo", null, "2220 Oxford Street", "94704", "510-841-4410", "Office/Retail" ]
+, [ 136, "geo_shn7-wzi2-1.136", null, null, null, null, null, null, "Oakland", "Breathing Room Consulting", null, "397 51st Street", "94609", "510-520-1103", "Office/Retail" ]
+, [ 137, "geo_shn7-wzi2-1.137", null, null, null, null, null, null, "Oakland", "kW Engineering", null, "287 17th Street, Suite 300", "94612", "510-834-6420", "Office/Retail" ]
+, [ 138, "geo_shn7-wzi2-1.138", null, null, null, null, null, null, "Oakland", "Computer Techs Personnel Staffing", null, "9308 International Blvd., #C", "94603", "510-638-3471", "Office/Retail" ]
+, [ 139, "geo_shn7-wzi2-1.139", null, null, null, null, null, null, "Pleasanton", "Rick's Performance", null, "3295 Bernal Ave. #A", "94566", "925-484-2324", "Auto Repair" ]
+, [ 140, "geo_shn7-wzi2-1.140", null, null, null, null, null, null, "Oakland", "Fair Trade USA", null, "1500 Broadway, Suite 400", "94612", "(510) 663-5260", "Office/Retail" ]
+, [ 141, "geo_shn7-wzi2-1.141", null, null, null, null, null, null, "Emeryville", "PrintingGreen.Com", null, "1287 66th Street", "94608", "510-420-5800", "Printer" ]
+, [ 142, "geo_shn7-wzi2-1.142", null, null, null, null, null, null, "Oakland", "Alameda County Supervisor Scott Haggerty's Office, District 1", null, "1221 Oak Street, Suite 536", "94612", "510-272-6691", "Office/Retail" ]
+, [ 143, "geo_shn7-wzi2-1.143", null, null, null, null, null, null, "Oakland", "Nancy Rothstein Photography", null, "535 Athol Avenue", "94606", "877-881-7221", "Office/Retail" ]
+, [ 144, "geo_shn7-wzi2-1.144", null, null, null, null, null, null, "Berkeley", "Homemade Cafe", null, "2454 Sacramento St.", "94702", "510-8451940", "Restaurant" ]
+, [ 145, "geo_shn7-wzi2-1.145", null, null, null, null, null, null, "Berkeley", "Ecology Center Environmental Resource Center", null, "2530 San Pablo Avenue", "94702", "(510) 548-2220", "Office/Retail" ]
+, [ 146, "geo_shn7-wzi2-1.146", null, null, null, null, null, null, "Alameda", "Environmental & Public Health Consulting", null, "1246 Saint Charles Street", "94501", "5107697008", "Office/Retail" ]
+, [ 147, "geo_shn7-wzi2-1.147", null, null, null, null, null, null, "Oakland", "Wishnev Consulting", null, "560 58th st", "94609", "510-747-8324", "Office/Retail" ]
+, [ 148, "geo_shn7-wzi2-1.148", null, null, null, null, null, null, "Oakland", "Orion Renewable Energy Group LLC", null, "360 22nd Street, Suite 800", "94612", "510-267-8921", "Office/Retail" ]
+, [ 149, "geo_shn7-wzi2-1.149", null, null, null, null, null, null, "Oakland", "Magnolias West", null, "1430 32nd Street", "94608", "510 698-6245", "Office/Retail" ]
+, [ 150, "geo_shn7-wzi2-1.150", null, null, null, null, null, null, "Berkeley", "Vik's Chaat & Market", null, "2390 Fourth St", "94710", "510-644-4432", "Restaurant" ]
+, [ 151, "geo_shn7-wzi2-1.151", null, null, null, null, null, null, "Livermore", "Rodrigue Molyneaux Winery", null, "3053 Marina Ave", "94550", "925-443-1998", "Winery" ]
+, [ 152, "geo_shn7-wzi2-1.152", null, null, null, null, null, null, "Oakland", "In Motion Center", null, "1091 Calcot Place Suite412", "94606", "510-261-4570", "Office/Retail" ]
+, [ 153, "geo_shn7-wzi2-1.153", null, null, null, null, null, null, "Emeryville", "Personal Financial Consultants, Inc.", null, "5901 Christie Avenue", "94608", "7077719249", "Office/Retail" ]
+, [ 154, "geo_shn7-wzi2-1.154", null, null, null, null, null, null, "Oakland", "Cutting Edge Capital", null, "436 14th St. #1120", "94612", "510-834-4530", "Office/Retail" ]
+, [ 155, "geo_shn7-wzi2-1.155", null, null, null, null, null, null, "San Leandro", "Blaisdell's Business Products", null, "1645 Alvarado St", "94577", "5104833600", "Office/Retail" ]
+, [ 156, "geo_shn7-wzi2-1.156", null, null, null, null, null, null, "Albany", "City of Albany Community Center", null, "1249 Marin Ave", "94706", "510-524-9283", "Office/Retail" ]
+, [ 157, "geo_shn7-wzi2-1.157", null, null, null, null, null, null, "Oakland", "City of Oakland Studio One Arts Center", null, "365 45th Street", "94609", "510-238-6259", "Schools" ]
+, [ 158, "geo_shn7-wzi2-1.158", null, null, null, null, null, null, "Oakland", "Halbright Photography", null, "4949A Coronado Avenue", "94705", "5106552633", "Office/Retail" ]
+, [ 159, "geo_shn7-wzi2-1.159", null, null, null, null, null, null, "Alameda", "Pat Colburn EcoBroker", null, "762 Stewart Ct", "94501", "510-919-6169", "Office/Retail" ]
+, [ 160, "geo_shn7-wzi2-1.160", null, null, null, null, null, null, "Berkeley", "Venus Restaurant", null, "2327 Shattuck Ave.", "94704", "510-540-5950", "Restaurant" ]
+, [ 161, "geo_shn7-wzi2-1.161", null, null, null, null, null, null, "Berkeley", "Poulet", null, "1685 Shattuck Ave.", "94709", "510-845-5932", "Restaurant" ]
+, [ 162, "geo_shn7-wzi2-1.162", null, null, null, null, null, null, "Emeryville", "Julie Holcomb Printers, Inc.", null, "1601 63rd St.", "94608", "5106546416", "Printer" ]
+, [ 163, "geo_shn7-wzi2-1.163", null, null, null, null, null, null, "Fremont", "Delta Products Corporation - Fremont", null, "4405 Cushing Parkway", "94538", "5106685100", "Office/Retail" ]
+, [ 164, "geo_shn7-wzi2-1.164", null, null, null, null, null, null, "San Leandro", "Nice Teeth", null, "345 Estudillo Ave.", "94577", "5104832164", "Dentist" ]
+, [ 165, "geo_shn7-wzi2-1.165", null, null, null, null, null, null, "Albany", "Nina Homisak Hair Design", null, "1580 Solano Ave., Suite C", "94707", "510-525-5563", "Office/Retail" ]
+, [ 166, "geo_shn7-wzi2-1.166", null, null, null, null, null, null, "Oakland", "StopWaste.Org", null, "1537 Webster St.", "94612", "510-891-6500", "Office/Retail" ]
+, [ 167, "geo_shn7-wzi2-1.167", null, null, null, null, null, null, "Berkeley", "Revival Bar & Kitchen", null, "2102 Shattuck Avenue", "94704", "510-549-9950", "Restaurant" ]
+, [ 168, "geo_shn7-wzi2-1.168", null, null, null, null, null, null, "Fremont", "Maid to Order", null, "5583 Greeley Place", "94538", "510-623-0557", "Cleaning Services" ]
+, [ 169, "geo_shn7-wzi2-1.169", null, null, null, null, null, null, "Albany", "Suzanne Arca Design", null, "930 Cornell Avenue", "94706", "510-558-0636", "Landscaper" ]
+, [ 170, "geo_shn7-wzi2-1.170", null, null, null, null, null, null, "Berkeley", "Cancun", null, "2134 Allston Way", "94704", "510-549-0964", "Restaurant" ]
+, [ 171, "geo_shn7-wzi2-1.171", null, null, null, null, null, null, "Oakland", "Golden Gate Litho", null, "11144 Golf Links Road", "94605", "510-568-5335", "Printer" ]
+, [ 172, "geo_shn7-wzi2-1.172", null, null, null, null, null, null, "Oakland", "AHA Oak Street Terrace", null, "1109 Oak street", "94607", "510-251-1525", "Office/Retail" ]
+, [ 173, "geo_shn7-wzi2-1.173", null, null, null, null, null, null, "Oakland", "Rebecca Wilkowski Photography", null, "800 York Street", "94610", "3474134747", "Office/Retail" ]
+, [ 174, "geo_shn7-wzi2-1.174", null, null, null, null, null, null, "Berkeley", "Crossroads Trading Company", null, "2338 Shattuck Ave.", "94704", "510-843-7606", "Office/Retail" ]
+, [ 175, "geo_shn7-wzi2-1.175", null, null, null, null, null, null, "Oakland", "Mayway Corporation", null, "1338 Mandela Parkway", "94607", "5102083113", "Office/Retail" ]
+, [ 176, "geo_shn7-wzi2-1.176", null, null, null, null, null, null, "Castro Valley", "Hesperian Cleaners", null, "22321 Redwood Rd.", "94546", "510-414-3216", "Garment Cleaning" ]
+, [ 177, "geo_shn7-wzi2-1.177", null, null, null, null, null, null, "Berkeley", "Crossroads Trading Company - Corporate Headquarters", null, "1409 5th Street", "94710", "510-559-9600", "Office/Retail" ]
+, [ 178, "geo_shn7-wzi2-1.178", null, null, null, null, null, null, "Oakland", "Cowgirl Creative", null, "3056 Champion St", "94602", "510-338-5206", "Office/Retail" ]
+, [ 179, "geo_shn7-wzi2-1.179", null, null, null, null, null, null, "Oakland", "Integral Group, Inc.", null, "427 13th St.", "94612", "5106632070", "Office/Retail" ]
+, [ 180, "geo_shn7-wzi2-1.180", null, null, null, null, null, null, "Dublin", "AMP Printing + Graphics", null, "6955 Sierra Court", "94568", "925-556-9000", "Printer" ]
+, [ 181, "geo_shn7-wzi2-1.181", null, null, null, null, null, null, "Berkeley", "Weinreb Group", null, "1909 Berryman St", "94709", "5105243585", "Office/Retail" ]
+, [ 182, "geo_shn7-wzi2-1.182", null, null, null, null, null, null, "Emeryville", "Travel Store", null, "2100 Powell Street, Suite 100", "94608", "510-496-2020", "Office/Retail" ]
+, [ 183, "geo_shn7-wzi2-1.183", null, null, null, null, null, null, "Emeryville", "MedAmerica", null, "2100 Powell Street, Suite 900", "94608", "510-350-2600", "Office/Retail" ]
+, [ 184, "geo_shn7-wzi2-1.184", null, null, null, null, null, null, "Oakland", "The Mixing Bowl", null, "4920 Telegraph Ave", "94609", "510 655 5630", "Restaurant" ]
+, [ 185, "geo_shn7-wzi2-1.185", null, null, null, null, null, null, "Berkeley", "Bay Area Green Tours", null, "2150 Allston Way,Suite 280", "94704", "5107040379", "Office/Retail" ]
+, [ 186, "geo_shn7-wzi2-1.186", null, null, null, null, null, null, "Berkeley", "Mal Warwick Associates", null, "2550 Ninth Street, #103", "94710", "510-225-0428", "Office/Retail" ]
+, [ 187, "geo_shn7-wzi2-1.187", null, null, null, null, null, null, "Berkeley", "UC Berkeley Cal Dining Cafe 3 Dining", null, "2400 Durant Avenue", "94704", "510-642-5392", "Restaurant" ]
+, [ 188, "geo_shn7-wzi2-1.188", null, null, null, null, null, null, "Oakland", "Drafting Cafe", null, "2701 13th Ave", "94606", "510-457-5086", "Office/Retail" ]
+, [ 189, "geo_shn7-wzi2-1.189", null, null, null, null, null, null, "Livermore", "Checkers Catering and Special Event", null, "83 Wright Brothers Ave.", "94551", "9259681121", "Restaurant" ]
+, [ 190, "geo_shn7-wzi2-1.190", null, null, null, null, null, null, "Oakland", "Escuela Bilingue Internacional", null, "410 Alcatraz Avenue", "94609", "510-653-3324", "Schools" ]
+, [ 191, "geo_shn7-wzi2-1.191", null, null, null, null, null, null, "Union City", "Alma Via of Union City", null, "33883 Alvarado Niles Road", "94587", "510-489-3800", "Hotel" ]
+, [ 192, "geo_shn7-wzi2-1.192", null, null, null, null, null, null, "Oakland", "Chabot Space & Science Center", null, "10000 Skyline Blvd.", "94619", "510-336-7300", "Hotel" ]
+, [ 193, "geo_shn7-wzi2-1.193", null, null, null, null, null, null, "Oakland", "JBC Business Cards and Construction Support", null, "9308 International Blvd., #C", "94603", "510-638-3471", "Printer" ]
+, [ 194, "geo_shn7-wzi2-1.194", null, null, null, null, null, null, "San Leandro", "NOR-CAL MOVING SERVICES", null, "2001 MARINA BLVD", "94577", "5103577111", "Office/Retail" ]
+, [ 195, "geo_shn7-wzi2-1.195", null, null, null, null, null, null, "Berkeley", "State Farm Insurance - Steve Bauer Agent", null, "2890 College Avenue, Suite 1", "94705", "510-548-2929", "Office/Retail" ]
+, [ 196, "geo_shn7-wzi2-1.196", null, null, null, null, null, null, "Berkeley", "Alta Planning + Design", null, "2560 9th St. Suite 212", "94710", "5105405008", "Office/Retail" ]
+, [ 197, "geo_shn7-wzi2-1.197", null, null, null, null, null, null, "Pleasanton", "Oil Changer #610", null, "4210 Rosewood Dr.", "94588", "9257348619", "Auto Repair" ]
+, [ 198, "geo_shn7-wzi2-1.198", null, null, null, null, null, null, "Oakland", "Park Day School", null, "360 42nd Street", "94609", "510.653.0317", "Schools" ]
+, [ 199, "geo_shn7-wzi2-1.199", null, null, null, null, null, null, "Berkeley", "Transcendentist", null, "3030 Ashby Ave Ste 101", "94705", "5108413040", "Dentist" ]
+, [ 200, "geo_shn7-wzi2-1.200", null, null, null, null, null, null, "San Lorenzo", "Hesperian Cleaners Inc.", null, "15848 Hesperian Blvd.", "94580", "510-481-5825", "Garment Cleaning" ]
+, [ 201, "geo_shn7-wzi2-1.201", null, null, null, null, null, null, "Berkeley", "Freight & Salvage Coffeehouse", null, "2020 Addison Street", "94704", "(510) 644-2020", "Office/Retail" ]
+, [ 202, "geo_shn7-wzi2-1.202", null, null, null, null, null, null, "Berkeley", "Meyer Sound Labs. Inc", null, "2832 San Pablo Ave.", "94702", "510-486-1166", "Small Manufacturer" ]
+, [ 203, "geo_shn7-wzi2-1.203", null, null, null, null, null, null, "Oakland", "Acorn Wellness Center", null, "2929 Summit Street, Suite 103", "94609", "510-452-2929", "Office/Retail" ]
+, [ 204, "geo_shn7-wzi2-1.204", null, null, null, null, null, null, "Berkeley", "Red Oak Realty - Berkeley", null, "1891 Solano Ave.", "94707", "510-280-2130", "Office/Retail" ]
+, [ 205, "geo_shn7-wzi2-1.205", null, null, null, null, null, null, "Fremont", "Del Conte's Landscaping", null, "41900 Boscell Road", "94538", "510-353-6030", "Landscaper" ]
+, [ 206, "geo_shn7-wzi2-1.206", null, null, null, null, null, null, "Berkeley", "Gather Restaurant", null, "2200 Oxford Street", "94704", "510-809-0400", "Restaurant" ]
+, [ 207, "geo_shn7-wzi2-1.207", null, null, null, null, null, null, "Oakland", "Legalshield", null, "2128 108th Avenue Suite 103", "94603", "(510) 457-6995", "Office/Retail" ]
+, [ 208, "geo_shn7-wzi2-1.208", null, null, null, null, null, null, "Livermore", "US Foodservice", null, "300 Lawrence Dr.", "94550", "8006821228", "Small Manufacturer" ]
+, [ 209, "geo_shn7-wzi2-1.209", null, null, null, null, null, null, "Oakland", "Northgate Environmental Management Inc.", null, "300 Frank H. Ogawa Plaza, Suite 510", "94612", "5108390688", "Office/Retail" ]
+, [ 210, "geo_shn7-wzi2-1.210", null, null, null, null, null, null, "Berkeley", "Bobby G's Pizzeria", null, "2072 University Ave.", "94704", "510-665-8866", "Restaurant" ]
+, [ 211, "geo_shn7-wzi2-1.211", null, null, null, null, null, null, "Berkeley", "UC Berkeley LBNL Cafe", null, "1 Cyclotron Rd, Bldg 54, Room 117", "94709", "510-486-5357", "Restaurant" ]
+, [ 212, "geo_shn7-wzi2-1.212", null, null, null, null, null, null, "Oakland", "Katovich Law Group", null, "436 14th St. #1120", "94612", "510-834-4530", "Office/Retail" ]
+, [ 213, "geo_shn7-wzi2-1.213", null, null, null, null, null, null, "Emeryville", "Paula LeDuc Fine Catering", null, "1350 Park Avenue", "94608", "510-547-7825", "Restaurant" ]
+, [ 214, "geo_shn7-wzi2-1.214", null, null, null, null, null, null, "San Leandro", "State Senator Ellen Corbett", null, "1057 MacArthur Blvd., Ste. 206", "94577", "5105772310", "Office/Retail" ]
+, [ 215, "geo_shn7-wzi2-1.215", null, null, null, null, null, null, "Oakland", "EnviroSystems Group", null, "1904 Franklin St., Ste. 418", "94612", "5105315377", "Office/Retail" ]
+, [ 216, "geo_shn7-wzi2-1.216", null, null, null, null, null, null, "Oakland", "Royal Raspberry Catering", null, "3100 35th Avenue", "94619", "510-533-0781", "Restaurant" ]
+, [ 217, "geo_shn7-wzi2-1.217", null, null, null, null, null, null, "Oakland", "WRECO", null, "1814 Franklin Street, Suite 608", "94612", "510-836-5188", "Office/Retail" ]
+, [ 218, "geo_shn7-wzi2-1.218", null, null, null, null, null, null, "Dublin", "1-800-DryClean of Dublin", null, "7172 Regional St #186", "94568", "925-803-7597", "Garment Cleaning" ]
+, [ 219, "geo_shn7-wzi2-1.219", null, null, null, null, null, null, "Emeryville", "BASELINE", null, "5900 Hollis Street, Suite D", "94608", "510 420-8686", "Office/Retail" ]
+, [ 220, "geo_shn7-wzi2-1.220", null, null, null, null, null, null, "Dublin", "City of Dublin Civic Center", null, "100 Civic Plaza", "94568", "925-833-6650", "Office/Retail" ]
+, [ 221, "geo_shn7-wzi2-1.221", null, null, null, null, null, null, "Livermore", "Pak Mail", null, "51 Wright Brothers Ave., Suite F", "94551", "(925) 456-0100", "Office/Retail" ]
+, [ 222, "geo_shn7-wzi2-1.222", null, null, null, null, null, null, "Pleasanton", "Hacienda Business Park Owners Association", null, "4473 Willow Road, Suite 105", "94588", "(925) 734-6500", "Office/Retail" ]
+, [ 223, "geo_shn7-wzi2-1.223", null, null, null, null, null, null, "Alameda", "Alameda Publishing Group", null, "1416 Park Avenue", "94501", "510-747-1060", "Office/Retail" ]
+, [ 224, "geo_shn7-wzi2-1.224", null, null, null, null, null, null, "Berkeley", "Sweet Adeline", null, "3350 Adeline St", "94703", "5109857381", "Restaurant" ]
+, [ 225, "geo_shn7-wzi2-1.225", null, null, null, null, null, null, "Oakland", "Green Retirement Plans, Inc.", null, "8080 Capwell Drive, Suite 202", "94621", "510-638-6331", "Office/Retail" ]
+, [ 226, "geo_shn7-wzi2-1.226", null, null, null, null, null, null, "Berkeley", "Coe Studios, LLC", null, "1214 4th Street", "94710", "510-527-2950", "Office/Retail" ]
+, [ 227, "geo_shn7-wzi2-1.227", null, null, null, null, null, null, "Berkeley", "Maoz Vegetarian", null, "2395 Telegraph", "94704", "510 356 4090", "Restaurant" ]
+, [ 228, "geo_shn7-wzi2-1.228", null, null, null, null, null, null, "Berkeley", "Minuteman Press aka General Printing", null, "1101 Fifth Street", "94710", "510-540-7113", "Printer" ]
+, [ 229, "geo_shn7-wzi2-1.229", null, null, null, null, null, null, "Berkeley", "Nature's Express", null, "1823 Solano Ave.", "94707", "510-527-5331", "Restaurant" ]
+, [ 230, "geo_shn7-wzi2-1.230", null, null, null, null, null, null, "Oakland", "Neo Autoworks", null, "1220 East 12th Street", "94606", "510-533-8886", "Auto Body" ]
+, [ 231, "geo_shn7-wzi2-1.231", null, null, null, null, null, null, "Piedmont", "Piedmont Dental by Design", null, "1331 Grand Ave", "94610", "510.652.2911", "Dentist" ]
+, [ 232, "geo_shn7-wzi2-1.232", null, null, null, null, null, null, "Albany", "Sarana Community Acupuncture", null, "968 San Pablo Avenue", "94706", "510-526-5056", "Office/Retail" ]
+, [ 233, "geo_shn7-wzi2-1.233", null, null, null, null, null, null, "Emeryville", "Arizmendi Bakery & Pizzeria", null, "4301 San Pablo Ave.", "94608", "510.547.0550", "Restaurant" ]
+, [ 234, "geo_shn7-wzi2-1.234", null, null, null, null, null, null, "Castro Valley", "Creative Organizing", null, "3854 Brookdale Bl.", "94546", "510-415-2455", "Office/Retail" ]
+, [ 235, "geo_shn7-wzi2-1.235", null, null, null, null, null, null, "San Leandro", "Peterson Power Systems", null, "2828 Teagarden Street", "94577", "510.859.8400", "Auto Repair" ]
+, [ 236, "geo_shn7-wzi2-1.236", null, null, null, null, null, null, "Oakland", "Orion Energy Group LLC - Main Office", null, "360 22nd Street, Suite 800", "94612", "510-267-8921", "Office/Retail" ]
+, [ 237, "geo_shn7-wzi2-1.237", null, null, null, null, null, null, "Fremont", "American Natural & Organic Spices", null, "4180 Business Center Dr.", "94538", "510 - 440-1044", "Small Manufacturer" ]
+, [ 238, "geo_shn7-wzi2-1.238", null, null, null, null, null, null, "Emeryville", "Back to Earth Organic Catering", null, "1327 61st Street", "0", "5106522000", "Restaurant" ]
+, [ 239, "geo_shn7-wzi2-1.239", null, null, null, null, null, null, "San Leandro", "Give Something Back - WH", null, "2986 Alvarado Street unit H", "94577", "8002612619", "Office/Retail" ]
+, [ 240, "geo_shn7-wzi2-1.240", null, null, null, null, null, null, "Emeryville", "Hines 2100 Powell", null, "2100 Powell Street, Suite 125", "94608", "510-658-2400", "Property Managers" ]
+, [ 241, "geo_shn7-wzi2-1.241", null, null, null, null, null, null, "San Leandro", "In & Out Printing", null, "14628 Wicks Boulevard", "94577", "510-351-7007", "Printer" ]
+, [ 242, "geo_shn7-wzi2-1.242", null, null, null, null, null, null, "Berkeley", "Shelterbelt Builders, Inc.", null, "1207 10th Street", "94710", "510-841-0911", "Landscaper" ]
+, [ 243, "geo_shn7-wzi2-1.243", null, null, null, null, null, null, "Oakland", "Geoffrey Holton & Associates", null, "339 15th Street, Suite 212", "94612", "510-663-9797", "Office/Retail" ]
+, [ 244, "geo_shn7-wzi2-1.244", null, null, null, null, null, null, "Alameda", "Excel Graphics", null, "1825 Clement Avenue", "94501", "510-522-0462", "Printer" ]
+, [ 245, "geo_shn7-wzi2-1.245", null, null, null, null, null, null, "Berkeley", "Economic and Planning Systems", null, "2501 9th Street", "94710", "510-841-9190", "Office/Retail" ]
+, [ 246, "geo_shn7-wzi2-1.246", null, null, null, null, null, null, "Oakland", "DRAGA Designs", null, "2128 108th Avenue", "94603", "510-473-4002", "Office/Retail" ]
+, [ 247, "geo_shn7-wzi2-1.247", null, null, null, null, null, null, "Berkeley", "Cafe Leila", null, "1724 San Pablo Avenue", "94702", "510-525-7544", "Restaurant" ]
+, [ 248, "geo_shn7-wzi2-1.248", null, null, null, null, null, null, "Berkeley", "Barney's Gourmet Hamburgers - Shattuck", null, "1600 Shattuck Avenue", "94709", "510-849-2827", "Restaurant" ]
+, [ 249, "geo_shn7-wzi2-1.249", null, null, null, null, null, null, "Oakland", "Henn, Etzel & Moore", null, "1970 Broadway, 9th Floor", "94612", "510-893-6300", "Office/Retail" ]
+, [ 250, "geo_shn7-wzi2-1.250", null, null, null, null, null, null, "Oakland", "Scott Cole & Associates", null, "1970 Broadway, 9th Floor", "94612", "510-891-9800", "Office/Retail" ]
+, [ 251, "geo_shn7-wzi2-1.251", null, null, null, null, null, null, "Dublin", "Caledonian Building Services", null, "6370 Clark Avenue", "94568", "925-803-3500", "Cleaning Services" ]
+, [ 252, "geo_shn7-wzi2-1.252", null, null, null, null, null, null, "Emeryville", "Bacchus Press Inc.", null, "1287 66th St.", "94608", "510-420-5800", "Printer" ]
+, [ 253, "geo_shn7-wzi2-1.253", null, null, null, null, null, null, "Berkeley", "Cohousing California", null, "2150 Allston Way #400", "94704", "510-868-1627", "Office/Retail" ]
+, [ 254, "geo_shn7-wzi2-1.254", null, null, null, null, null, null, "Berkeley", "Autumn Press", null, "945 Camelia Street", "94710", "510.654.4545", "Printer" ]
+, [ 255, "geo_shn7-wzi2-1.255", null, null, null, null, null, null, "Oakland", "Revolution Foods", null, "8383 Capwell Drive", "94621", "510-596-9024", "Small Manufacturer" ]
+, [ 256, "geo_shn7-wzi2-1.256", null, null, null, null, null, null, "Pleasanton", "Pakpour Consulting Group", null, "5776 Stoneridge Mall Rd., Suite 320", "94588", "(925) 224-7717", "Office/Retail" ]
+, [ 257, "geo_shn7-wzi2-1.257", null, null, null, null, null, null, "Oakland", "Blue Heron Catering", null, "3100 - 35th Avenue", "94619", "510-533-0781", "Restaurant" ]
+, [ 258, "geo_shn7-wzi2-1.258", null, null, null, null, null, null, "Oakland", "Geekosystems", null, "1511 Jefferson St Th 8", "94612", "510-230-3078", "Office/Retail" ]
+, [ 259, "geo_shn7-wzi2-1.259", null, null, null, null, null, null, "Berkeley", "Environmental Vision", null, "2550 Ninth St, Ste 205", "94710", "510-540-4882", "Office/Retail" ]
+, [ 260, "geo_shn7-wzi2-1.260", null, null, null, null, null, null, "Oakland", "The Focal Point LLC", null, "501 14th Street, Suite 200", "94612", "5102081760", "previously certified business" ]
+, [ 261, "geo_shn7-wzi2-1.261", null, null, null, null, null, null, "Castro Valley", "Yoga In The Middle", null, "20211 Patio Drive, Suite 235", "94546", "5105372584", "previously certified business" ]
+, [ 262, "geo_shn7-wzi2-1.262", null, null, null, null, null, null, "Livermore", "Wente Vineyard Restaurant & Event Center", null, "5050 Arroyo Road", "94550", "9254562416", "previously certified business" ]
+, [ 263, "geo_shn7-wzi2-1.263", null, null, null, null, null, null, "Dublin", "Sybase Fibonacci Cafe", null, "1 Sybase Way", "94568", "9252365203", "previously certified business" ]
+, [ 264, "geo_shn7-wzi2-1.264", null, null, null, null, null, null, "Berkeley", "Sungevity", null, "816 Bancroft Way", "94710", "5108455660", "previously certified business" ]
+, [ 265, "geo_shn7-wzi2-1.265", null, null, null, null, null, null, "Oakland", "One PacificCoast Foundation", null, "1438 Webster St, Suite 101", "94612", "5106632253", "previously certified business" ]
+, [ 266, "geo_shn7-wzi2-1.266", null, null, null, null, null, null, "Oakland", "One PacificCoast Bank", null, "1438 Webster St, Suite 100", "94612", "5105508400", "previously certified business" ]
+, [ 267, "geo_shn7-wzi2-1.267", null, null, null, null, null, null, "Berkeley", "McCutcheon Construction", null, "1280 Sixth St", "94710", "5105588030", "Home Remodel" ]
+, [ 268, "geo_shn7-wzi2-1.268", null, null, null, null, null, null, "Berkeley", "Local 123", null, "2049 San Pablo Ave", "94702", "", "previously certified business" ]
+, [ 269, "geo_shn7-wzi2-1.269", null, null, null, null, null, null, "Berkeley", "Lazer Image", null, "61 Shattuck Square", "94704", "5106443339", "previously certified business" ]
+, [ 270, "geo_shn7-wzi2-1.270", null, null, null, null, null, null, "Hayward", "Kortick Manufacturing", null, "2230 Davis Court", "94545", "5108563600", "previously certified business" ]
+, [ 271, "geo_shn7-wzi2-1.271", null, null, null, null, null, null, "Oakland", "Kilalo", null, "2067 Mountain Boulevard", "94611", "5103380791", "previously certified business" ]
+, [ 272, "geo_shn7-wzi2-1.272", null, null, null, null, null, null, "Hayward", "Impact Printing", null, "23278 Bernhardt Street", "94545", "5107837977", "previously certified business" ]
+, [ 273, "geo_shn7-wzi2-1.273", null, null, null, null, null, null, "Oakland", "Grace Street Catering", null, "4629 Martin Luther King Jr. Way", "94609", "5105231600", "previously certified business" ]
+, [ 274, "geo_shn7-wzi2-1.274", null, null, null, null, null, null, "Union City", "Finelite", null, "30500 Whipple Road", "94587", "5104411100", "previously certified business" ]
+, [ 275, "geo_shn7-wzi2-1.275", null, null, null, null, null, null, "Oakland", "David Thorne Landscape Architect", null, "3315 Grand Avenue", "94610", "5104516161", "Landscaper" ]
+, [ 276, "geo_shn7-wzi2-1.276", null, null, null, null, null, null, "Livermore", "Curtis Instruments", null, "235 E. Airway Blvd.", "94551", "9259611088", "previously certified business" ]
+, [ 277, "geo_shn7-wzi2-1.277", null, null, null, null, null, null, "San Leandro", "Crown Worldwide Moving & Storage", null, "14826 Wicks Boulevard", "94577", "5108958050", "previously certified business" ]
+, [ 278, "geo_shn7-wzi2-1.278", null, null, null, null, null, null, "Hayward", "Costco Hayward", null, "28505 Hesperian Boulevard", "94545", "5109213128", "previously certified business" ]
+, [ 279, "geo_shn7-wzi2-1.279", null, null, null, null, null, null, "Berkeley", "Caffe Strada", null, "2300 College Avenue", "94704", "5108435282", "previously certified business" ]
+, [ 280, "geo_shn7-wzi2-1.280", null, null, null, null, null, null, "Berkeley", "Balance Hydrologics", null, "800 Bancroft Way, Suite 101", "94710", "5107041000", "previously certified business" ]
+, [ 281, "geo_shn7-wzi2-1.281", null, null, null, null, null, null, "Oakland", "Burns Employee Benefits", null, "5653 Maxwelton Road", "0", "5104590657", "previously certified business" ]
+, [ 282, "geo_shn7-wzi2-1.282", null, null, null, null, null, null, "Oakland", "BP Wind Energy", null, "360 22nd Street, Suite 850", "94612", "5102678989", "previously certified business" ]
+, [ 283, "geo_shn7-wzi2-1.283", null, null, null, null, null, null, "Union City", "Bay Central Printing", null, "33401 Western Avenue", "94587", "5104299111", "Printer" ]
+, [ 284, "geo_shn7-wzi2-1.284", null, null, null, null, null, null, "Hayward", "Bay Area Green Printing", null, "23486 Connecticut Street", "94545", "5107837001", "previously certified business" ]
+, [ 285, "geo_shn7-wzi2-1.285", null, null, null, null, null, null, "Berkeley", "Bancroft Catering", null, "2680 Bancroft Way", "94704", "5105491000", "previously certified business" ]
+, [ 286, "geo_shn7-wzi2-1.286", null, null, null, null, null, null, "Oakland", "Audio Visual Consultants", null, "3738 Grand Avenue", "94610", "5108392020", "Office/Retail" ]
+, [ 287, "geo_shn7-wzi2-1.287", null, null, null, null, null, null, "Berkeley", "Angeline's Louisiana Kitchen", null, "2261 Shattuck Ave", "94704", "5105486900", "Restaurant" ]
+, [ 288, "geo_shn7-wzi2-1.288", null, null, null, null, null, null, "Berkeley", "Freehouse", null, "2700 Bancroft Way", "94704", "5106472300", "previously certified business" ]
+, [ 289, "geo_shn7-wzi2-1.289", null, null, null, null, null, null, "Emeryville", "Key Curriculum Press", null, "1150-65th Street", "94608", "5105957000", "Office/Retail" ]
+, [ 290, "geo_shn7-wzi2-1.290", null, null, null, null, null, null, "Emeryville", "Bay Area Economics", null, "1285 66th St.", "94608", "510-547-9380", "Office/Retail" ]
+, [ 291, "geo_shn7-wzi2-1.291", null, null, null, null, null, null, "Pleasanton", "ImageX", null, "6150 Stoneridge Mall Rd. suite 200", "94588", "925-251-5600", "Printer" ]
+, [ 292, "geo_shn7-wzi2-1.292", null, null, null, null, null, null, "Hayward", "City of Hayward - Utilities Center", null, "24499 Soto Road", "94544", "510-583-4713", "Office/Retail" ]
+, [ 293, "geo_shn7-wzi2-1.293", null, null, null, null, null, null, "Berkeley", "Sheryl Drinkwater, Architect", null, "2601 Mathews Street", "94702", "(510) 848-4439", "Home Remodel" ]
+, [ 294, "geo_shn7-wzi2-1.294", null, null, null, null, null, null, "Oakland", "Electrocompaniet Inc.", null, "97 Linden St", "94607", "510-291-1222", "Office/Retail" ]
+, [ 295, "geo_shn7-wzi2-1.295", null, null, null, null, null, null, "Oakland", "Donahue Gallagher Woods LLP", null, "1999 Harrison Street, 25th Floor", "94612", "510-451-0544", "Office/Retail" ]
+, [ 296, "geo_shn7-wzi2-1.296", null, null, null, null, null, null, "Castro Valley", "Knudsen's Ice Creamery", null, "3323 Castro Valley Blvd.", "94546", "510-582-2775", "Restaurant" ]
+, [ 297, "geo_shn7-wzi2-1.297", null, null, null, null, null, null, "Berkeley", "Conscious Creative", null, "2703 7th Street, Studio 365, Mailbox 119", "94710", "5105404800", "Office/Retail" ]
+, [ 298, "geo_shn7-wzi2-1.298", null, null, null, null, null, null, "Oakland", "Red Oak Realty - Oakland", null, "2099 Pleasant Valley Ave", "94619", "510-292-2000", "Office/Retail" ]
+, [ 299, "geo_shn7-wzi2-1.299", null, null, null, null, null, null, "Oakland", "actual cafe", null, "6334 san pablo ave", "94608", "510.653.8386", "Restaurant" ]
+, [ 300, "geo_shn7-wzi2-1.300", null, null, null, null, null, null, "Oakland", "Flowing River Clinic", null, "2929 Summit Street Suite 102", "94609", "510-893-2929", "Office/Retail" ]
+, [ 301, "geo_shn7-wzi2-1.301", null, null, null, null, null, null, "Berkeley", "Bavarian Professionals", null, "1218 Seventh Street", "94710", "510-524-6000", "Auto Repair" ]
+, [ 302, "geo_shn7-wzi2-1.302", null, null, null, null, null, null, "Hayward", "CEC Print Solutions, Inc.", null, "20939 Cabot Blvd.", "94545", "510-670-0160", "Printer" ]
+, [ 303, "geo_shn7-wzi2-1.303", null, null, null, null, null, null, "Pleasanton", "TLC Interior Plant Service", null, "3213 Touriga Drive", "94566", "925-846-6534", "Office/Retail" ]
+, [ 304, "geo_shn7-wzi2-1.304", null, null, null, null, null, null, "Berkeley", "Yali's Cafe", null, "1920 Oxford Street", "94704", "510-843-2233", "Restaurant" ]
+, [ 305, "geo_shn7-wzi2-1.305", null, null, null, null, null, null, "Hayward", "Pacheco Brothers Gardening, Inc", null, "795 Sandoval Way", "94544", "510-487-3580", "Landscaper" ]
+, [ 306, "geo_shn7-wzi2-1.306", null, null, null, null, null, null, "Livermore", "Machado's Auto Care", null, "4001 First St. Ste. #1", "94551", "925-606-8194", "Auto Repair" ]
+, [ 307, "geo_shn7-wzi2-1.307", null, null, null, null, null, null, "Hayward", "City of Hayward - City Hall", null, "777 B Street", "94541", "510-583-4713", "Office/Retail" ]
+, [ 308, "geo_shn7-wzi2-1.308", null, null, null, null, null, null, "Berkeley", "Nina Designs", null, "1000 Pardee St.", "94710", "510-845-8095", "Office/Retail" ]
+, [ 309, "geo_shn7-wzi2-1.309", null, null, null, null, null, null, "Emeryville", "Consumer Financial Service Corporation", null, "1500 Park Avenue, Suite 116", "94608", "510.596.4100", "Office/Retail" ]
+, [ 310, "geo_shn7-wzi2-1.310", null, null, null, null, null, null, "Oakland", "Pandora", null, "2101 Webster Street, Suite 1650", "94612", "510-451-4100", "Office/Retail" ]
+, [ 311, "geo_shn7-wzi2-1.311", null, null, null, null, null, null, "Berkeley", "Au Coquelet", null, "2000 University Avenue", "94704", "510-845-0433", "Restaurant" ]
+, [ 312, "geo_shn7-wzi2-1.312", null, null, null, null, null, null, "Berkeley", "Razan's Organic Kitchen", null, "2119 Kittredge Avenue", "94704", "5100486-0449", "Restaurant" ]
+, [ 313, "geo_shn7-wzi2-1.313", null, null, null, null, null, null, "Oakland", "Natural Home Cleaning Professionals", null, "3228 Fruitvale Avenue", "94602", "510-532-6645", "Cleaning Services" ]
+, [ 314, "geo_shn7-wzi2-1.314", null, null, null, null, null, null, "Oakland", "RINA Accountancy Corporation", null, "475 - 14th Street, Suite 1200", "94612", "(510) 893-6908", "Office/Retail" ]
+, [ 315, "geo_shn7-wzi2-1.315", null, null, null, null, null, null, "Castro Valley", "Castro Valley Chamber of Commerce", null, "3467 Castro Valley Blvd", "94546", "510-537-5300", "Office/Retail" ]
+, [ 316, "geo_shn7-wzi2-1.316", null, null, null, null, null, null, "Oakland", "Mr Sparkle Window Washers", null, "1849 Carter Street", "94602", "510-299-3276", "Cleaning Services" ]
+, [ 317, "geo_shn7-wzi2-1.317", null, null, null, null, null, null, "Livermore", "I.T. Pro Source", null, "3090 Independence Drive, Suite 214", "94551", "925-455-7701", "Office/Retail" ]
+, [ 318, "geo_shn7-wzi2-1.318", null, null, null, null, null, null, "Oakland", "East Bay Community Foundation", null, "200 Frank H. Ogawa Plaza", "94612", "510-208-0813", "Office/Retail" ]
+, [ 319, "geo_shn7-wzi2-1.319", null, null, null, null, null, null, "Livermore", "Oil Changer #304", null, "1247 Portola Avenue", "94550", "925-447-3346", "Auto Repair" ]
+, [ 320, "geo_shn7-wzi2-1.320", null, null, null, null, null, null, "Oakland", "Holmgren and Associates", null, "1900 Mountain Boulevard", "94611", "510-339-2121", "Office/Retail" ]
+, [ 321, "geo_shn7-wzi2-1.321", null, null, null, null, null, null, "Berkeley", "Metro Lighting", null, "2240 San Pablo Ave", "94702", "510-540-0509", "Small Manufacturer" ]
+, [ 322, "geo_shn7-wzi2-1.322", null, null, null, null, null, null, "Oakland", "Body Mind & Spirit Massage Therapy Center", null, "6206 Claremont Ave", "94618", "510 547-6716", "Office/Retail" ]
+, [ 323, "geo_shn7-wzi2-1.323", null, null, null, null, null, null, "Berkeley", "Berkeley Chamber of Commerce", null, "1834 University Ave.", "94703", "510-549-7000", "Office/Retail" ]
+, [ 324, "geo_shn7-wzi2-1.324", null, null, null, null, null, null, "Berkeley", "Shotgun Players", null, "1901 Ashby Ave", "94703", "510-841-6500", "Office/Retail" ]
+, [ 325, "geo_shn7-wzi2-1.325", null, null, null, null, null, null, "Oakland", "EBMUD Reprographics", null, "1200 21st Street, MS 54-A", "94607", "510-986-7705", "Printer" ]
+, [ 326, "geo_shn7-wzi2-1.326", null, null, null, null, null, null, "Berkeley", "UC Foothill Cal Dining", null, "2700 HEARST AVE.", "94720", "5106427050", "Restaurant" ]
+, [ 327, "geo_shn7-wzi2-1.327", null, null, null, null, null, null, "Oakland", "Give Something Back - Oakland", null, "7730 Pardee Lane", "94621", "8002612619", "Office/Retail" ]
+, [ 328, "geo_shn7-wzi2-1.328", null, null, null, null, null, null, "Berkeley", "Berkeley Design Center", null, "3195 Adeline Street", "94703", "510-652-6064", "Home Remodel" ]
+, [ 329, "geo_shn7-wzi2-1.329", null, null, null, null, null, null, "Berkeley", "Hugh Groman Catering & Greenleaf Platters", null, "2315 Dwight Way", "94704", "510-647-5165", "Restaurant" ]
+, [ 330, "geo_shn7-wzi2-1.330", null, null, null, null, null, null, "Livermore", "Livermore Valley Winegrowers Association", null, "3585 Greenville Road Suite 4", "94550", "925-447-9463", "Office/Retail" ]
+, [ 331, "geo_shn7-wzi2-1.331", null, null, null, null, null, null, "Berkeley", "Original Pollo", null, "100 Berkeley Square", "94704", "510-486-8027", "Restaurant" ]
+, [ 332, "geo_shn7-wzi2-1.332", null, null, null, null, null, null, "Pleasanton", "Javelin Strategy & Research", null, "4301 Hacienda Drive, Suite 550", "94588", "(925) 225-9100", "Office/Retail" ]
+, [ 333, "geo_shn7-wzi2-1.333", null, null, null, null, null, null, "Berkeley", "The Framer's Workshop", null, "2439 Channing Way", "94704", "510-849-4444", "Office/Retail" ]
+, [ 334, "geo_shn7-wzi2-1.334", null, null, null, null, null, null, "Alameda", "West Advertising, Inc.", null, "1410 Park Avenue", "94501", "510-865-9378", "Office/Retail" ]
+, [ 335, "geo_shn7-wzi2-1.335", null, null, null, null, null, null, "Fremont", "Best Graphic Image", null, "44816 S. Grimmer Blvd", "94538", "510-490-9717", "Office/Retail" ]
+, [ 336, "geo_shn7-wzi2-1.336", null, null, null, null, null, null, "Oakland", "VBN Architects", null, "560 14th Street", "94612", "510-763-1313", "Home Remodel" ]
+, [ 337, "geo_shn7-wzi2-1.337", null, null, null, null, null, null, "Berkeley", "Adams & Chittenden Scientific Glass", null, "2741 8th Street", "94710", "510-843-5277", "Small Manufacturer" ]
+, [ 338, "geo_shn7-wzi2-1.338", null, null, null, null, null, null, "Emeryville", "Four Points Sheraton", null, "1603 Powell Street", "94608", "510-547-7888", "Hotel" ]
+, [ 339, "geo_shn7-wzi2-1.339", null, null, null, null, null, null, "Oakland", "Avail Insurance Solutions, LLC", null, "5733 Ross Street", "94618", "510-599-3417", "Office/Retail" ]
+, [ 340, "geo_shn7-wzi2-1.340", null, null, null, null, null, null, "Fremont", "REI Fremont", null, "43962 Fremont Blvd", "94538", "510-651-0305", "Office/Retail" ]
+, [ 341, "geo_shn7-wzi2-1.341", null, null, null, null, null, null, "Oakland", "Pyatok Architects", null, "1611 Telegraph Ave Suite 200", "94612", "510-465-7010", "Home Remodel" ]
+, [ 342, "geo_shn7-wzi2-1.342", null, null, null, null, null, null, "Oakland", "CH2M HILL", null, "155 Grand Avenue", "94612", "510-251-2426", "Office/Retail" ]
+, [ 343, "geo_shn7-wzi2-1.343", null, null, null, null, null, null, "Berkeley", "Ajanta", null, "1888 Solano Avenue", "94707", "510-5264373", "Restaurant" ]
+, [ 344, "geo_shn7-wzi2-1.344", null, null, null, null, null, null, "Fremont", "Write Place", null, "38092 Parkmont Drive", "94536", "(510) 648-0103", "Office/Retail" ]
+, [ 345, "geo_shn7-wzi2-1.345", null, null, null, null, null, null, "Berkeley", "Planning for Sustainable Communities", null, "2150 Allston Way #400", "94704", "(510) 868-1627", "Office/Retail" ]
+, [ 346, "geo_shn7-wzi2-1.346", null, null, null, null, null, null, "Livermore", "Vintage 99 Label MFG Inc", null, "611 Enterprise Court", "94550", "925-294-5274", "Printer" ]
+, [ 347, "geo_shn7-wzi2-1.347", null, null, null, null, null, null, "San Leandro", "MedShare", null, "2937 Alvarado Street", "94577", "510-567-7070", "Office/Retail" ]
+, [ 348, "geo_shn7-wzi2-1.348", null, null, null, null, null, null, "Alameda", "The Waterfront, Alameda Waterfront", null, "1701 Harbor Bay Parkway, Suite 150", "94502", "510-521-9900", "Office/Retail" ]
+, [ 349, "geo_shn7-wzi2-1.349", null, null, null, null, null, null, "Berkeley", "Gorgeous and Green Events", null, "2524 San Pablo Ave", "94702", "510-665 7974", "Office/Retail" ]
+, [ 350, "geo_shn7-wzi2-1.350", null, null, null, null, null, null, "Berkeley", "Tara's Organic Ice Cream", null, "3173 College Avenue", "94705", "510-655-5014", "Restaurant" ]
+, [ 351, "geo_shn7-wzi2-1.351", null, null, null, null, null, null, "Oakland", "BioDiesel Hauling", null, "3521 High St", "94619", "510-410-5484", "Office/Retail" ]
+, [ 352, "geo_shn7-wzi2-1.352", null, null, null, null, null, null, "Castro Valley", "Atlantic Decisions, Inc.", null, "6161 E Castro Valley Blvd", "94552", "888-732-9101", "Office/Retail" ]
+, [ 353, "geo_shn7-wzi2-1.353", null, null, null, null, null, null, "Oakland", "PGAdesign", null, "444-17th Street", "94612", "510.465.1284", "Landscaper" ]
+, [ 354, "geo_shn7-wzi2-1.354", null, null, null, null, null, null, "San Lorenzo", "Oakland Pallet Company, Inc", null, "2500 Grant Avenue", "94580", "510-278-1291", "Small Manufacturer" ]
+, [ 355, "geo_shn7-wzi2-1.355", null, null, null, null, null, null, "Albany", "Serves You Right Catering", null, "1249 Marin Avenue", "94706", "510-527-8809", "Restaurant" ]
+, [ 356, "geo_shn7-wzi2-1.356", null, null, null, null, null, null, "Oakland", "The Rising Loafer Cafe & Bakery", null, "130 Frank H. Ogawa Plaza", "94612", "510-836-8712", "Restaurant" ]
+, [ 357, "geo_shn7-wzi2-1.357", null, null, null, null, null, null, "Oakland", "Wendel, Rosen, Black & Dean LLP", null, "1111 Broadway, 24th Fl.", "94607", "510-834-6600", "Office/Retail" ]
+, [ 358, "geo_shn7-wzi2-1.358", null, null, null, null, null, null, "Berkeley", "7 Days A Week Smog", null, "2234 San Pablo Ave", "94702", "510-843-0200", "Auto Repair" ]
+, [ 359, "geo_shn7-wzi2-1.359", null, null, null, null, null, null, "Pleasanton", "Custom Print Inc. dba AdvancedPrinting", null, "1183 Quarry Lane", "94566", "925-462-7055", "Printer" ]
+, [ 360, "geo_shn7-wzi2-1.360", null, null, null, null, null, null, "Berkeley", "Cafe Tibet", null, "2020 University Avenue", "94704", "510-548-5559", "Restaurant" ]
+, [ 361, "geo_shn7-wzi2-1.361", null, null, null, null, null, null, "Dublin", "Electrical Workers Union â IBEW 595", null, "6250 Village Parkway", "94568", "925-556-0595", "Office/Retail" ]
+, [ 362, "geo_shn7-wzi2-1.362", null, null, null, null, null, null, "Oakland", "TJC and Associates, Inc.", null, "1615 Broadway, 4th Floor", "94612", "(510) 251-8980", "Office/Retail" ]
+, [ 363, "geo_shn7-wzi2-1.363", null, null, null, null, null, null, "Emeryville", "ScanArt", null, "1259 Park Avenue", "94608", "510-595-2222", "Printer" ]
+, [ 364, "geo_shn7-wzi2-1.364", null, null, null, null, null, null, "San Leandro", "Ghirardelli Chocolate Company", null, "1111 139th Ave", "94578", "510-297-2613", "Small Manufacturer" ]
+, [ 365, "geo_shn7-wzi2-1.365", null, null, null, null, null, null, "Fremont", "Patriot Memory", null, "47027 Benicia Street", "94538", "510-438-8559", "Small Manufacturer" ]
+, [ 366, "geo_shn7-wzi2-1.366", null, null, null, null, null, null, "Oakland", "Murakami/Nelson Architectural Corp.", null, "100 Filbert Street", "94607", "510-444-7959", "Home Remodel" ]
+, [ 367, "geo_shn7-wzi2-1.367", null, null, null, null, null, null, "Oakland", "Lotus Cleaning Services", null, "452 Hanover Ave", "94606", "510-587-0755", "Cleaning Services" ]
+, [ 368, "geo_shn7-wzi2-1.368", null, null, null, null, null, null, "Berkeley", "Chez Panisse", null, "1517 Shattuck Avenue", "94709", "510-548-5072", "Restaurant" ]
+, [ 369, "geo_shn7-wzi2-1.369", null, null, null, null, null, null, "Emeryville", "Greenberg Brand Strategy", null, "1250 53rd St. Suite 5", "94608", "510-446-8156", "Office/Retail" ]
+, [ 370, "geo_shn7-wzi2-1.370", null, null, null, null, null, null, "Union City", "Paddy's Coffee House", null, "3900 Smith Street", "94582", "510-324-8572", "Restaurant" ]
+, [ 371, "geo_shn7-wzi2-1.371", null, null, null, null, null, null, "Oakland", "Sustainable Earth Initiative", null, "1904 Franklin Street #418", "94611", "510-531-5377", "Office/Retail" ]
+, [ 372, "geo_shn7-wzi2-1.372", null, null, null, null, null, null, "Alameda", "Alameda County Environmental Health", null, "1131 Harbor Bay Parkway", "94502", "510-567-6700", "Office/Retail" ]
+, [ 373, "geo_shn7-wzi2-1.373", null, null, null, null, null, null, "Livermore", "Sycamore Landscaping Corporation", null, "84 Rickenbacker Circle, Unit B", "94550", "9259420751", "previously certified business" ]
+, [ 374, "geo_shn7-wzi2-1.374", null, null, null, null, null, null, "Castro Valley", "Sky Power Systems", null, "5823 Shadow Ridge Dr.", "94583", "8884176527", "previously certified business" ]
+, [ 375, "geo_shn7-wzi2-1.375", null, null, null, null, null, null, "Berkeley", "Triple Rock Brewery", null, "1920 Shattuck Ave.", "94704", "5108432739", "previously certified business" ]
+, [ 376, "geo_shn7-wzi2-1.376", null, null, null, null, null, null, "Oakland", "Spring Friedlander Remodeling", null, "434 66th St.", "94609", "5106527600", "previously certified business" ]
+, [ 377, "geo_shn7-wzi2-1.377", null, null, null, null, null, null, "Oakland", "Solstice Press", null, "113 Filbert St.", "94607", "5104514790", "previously certified business" ]
+, [ 378, "geo_shn7-wzi2-1.378", null, null, null, null, null, null, "Oakland", "Peridot Marketing", null, "1453 Barrows Rd.", "94610", "5104652631", "previously certified business" ]
+, [ 379, "geo_shn7-wzi2-1.379", null, null, null, null, null, null, "San Leandro", "Norco Printing", null, "440 Hester St.", "94577", "5105692200", "previously certified business" ]
+, [ 380, "geo_shn7-wzi2-1.380", null, null, null, null, null, null, "Fremont", "Mission Valley Holiday Cleaners", null, "40093 Mission Blvd.", "94539", "5106568818", "previously certified business" ]
+, [ 381, "geo_shn7-wzi2-1.381", null, null, null, null, null, null, "Hayward", "Minuteman Press of Hayward", null, "22523 2nd St.", "94541", "5105818113", "previously certified business" ]
+, [ 382, "geo_shn7-wzi2-1.382", null, null, null, null, null, null, "Oakland", "Master Builders", null, "5521 Marshall St.", "94608", "5106542746", "previously certified business" ]
+, [ 383, "geo_shn7-wzi2-1.383", null, null, null, null, null, null, "Berkeley", "Marvin Gardens Real Estate", null, "1577 Solano Ave.", "94707", "5105272700", "previously certified business" ]
+, [ 384, "geo_shn7-wzi2-1.384", null, null, null, null, null, null, "Livermore", "Livermore Chamber of Commerce", null, "2157 First St", "94550", "9254471606", "previously certified business" ]
+, [ 385, "geo_shn7-wzi2-1.385", null, null, null, null, null, null, "Oakland", "Labrys Health Care Circle", null, "6536 Telegraph Ave", "94609", "5106589066", "previously certified business" ]
+, [ 386, "geo_shn7-wzi2-1.386", null, null, null, null, null, null, "San Leandro", "K/P Corporation", null, "13951 Washington Ave.", "94578", "5103515400", "Office/Retail" ]
+, [ 387, "geo_shn7-wzi2-1.387", null, null, null, null, null, null, "Oakland", "Full Court Press Communications", null, "409 13th Street, 13th Floor", "94612", "510-465-8294", "Office/Retail" ]
+, [ 388, "geo_shn7-wzi2-1.388", null, null, null, null, null, null, "Berkeley", "Forty Forty", null, "1440 4th St., Ste. D", "94710", "5105591036", "previously certified business" ]
+, [ 389, "geo_shn7-wzi2-1.389", null, null, null, null, null, null, "Oakland", "Evergreen Printing", null, "2335 Valley St.", "94612", "5108350254", "previously certified business" ]
+, [ 390, "geo_shn7-wzi2-1.390", null, null, null, null, null, null, "Oakland", "Everett Graphics", null, "7300 Edgewater Dr.", "94621", "5106385914", "previously certified business" ]
+, [ 391, "geo_shn7-wzi2-1.391", null, null, null, null, null, null, "Emeryville", "Emeryville Chamber of Commerce", null, "3980 Harlan St.", "94608", "5106525223", "previously certified business" ]
+, [ 392, "geo_shn7-wzi2-1.392", null, null, null, null, null, null, "Berkeley", "EcoHome Improvement", null, "2619 San Pablo Ave.", "94702", "5106443500", "previously certified business" ]
+, [ 393, "geo_shn7-wzi2-1.393", null, null, null, null, null, null, "Oakland", "EarthSource Forest Products", null, "1618 28th St.", "94608", "5105477257", "previously certified business" ]
+, [ 394, "geo_shn7-wzi2-1.394", null, null, null, null, null, null, "Pleasanton", "Chamberlin & Associates", null, "5860 West Las Positas Blvd, Ste 21", "94588", "925-227-0707", "previously certified business" ]
+, [ 395, "geo_shn7-wzi2-1.395", null, null, null, null, null, null, "Pleasanton", "Bregante + Company LLP", null, "4309 Hacienda Dr., Ste. 400", "94588", "9254160550", "previously certified business" ]
+, [ 396, "geo_shn7-wzi2-1.396", null, null, null, null, null, null, "Berkeley", "Berkeley Hills Realty", null, "1714 Solano Ave.", "94707", "5105249888", "previously certified business" ]
+, [ 397, "geo_shn7-wzi2-1.397", null, null, null, null, null, null, "San Leandro", "Zocalo Coffeehouse", null, "645 Bancroft Ave.", "94577", "5105690102", "previously certified business" ]
+, [ 398, "geo_shn7-wzi2-1.398", null, null, null, null, null, null, "Hayward", "Way To Be Designs", null, "30987 San Clemente St.", "94544", "5104766228", "previously certified business" ]
+, [ 399, "geo_shn7-wzi2-1.399", null, null, null, null, null, null, "Oakland", "Waste Management of Alameda County Administrative Office & Fleet Maintenance Facility", null, "172 98th Ave.", "94603", "5106132104", "previously certified business" ]
+, [ 400, "geo_shn7-wzi2-1.400", null, null, null, null, null, null, "Berkeley", "Walden Center and School", null, "2446 McKinley Ave.", "94703", "5108417248", "previously certified business" ]
+, [ 401, "geo_shn7-wzi2-1.401", null, null, null, null, null, null, "Berkeley", "Vital Vittles Premium Natural Foods", null, "2810 San Pablo Ave.", "94702", "5106442022", "previously certified business" ]
+, [ 402, "geo_shn7-wzi2-1.402", null, null, null, null, null, null, "Berkeley", "Venezia", null, "1799 University Ave.", "94703", "5108494681", "previously certified business" ]
+, [ 403, "geo_shn7-wzi2-1.403", null, null, null, null, null, null, "Emeryville", "Vee Horticulture Garden Design", null, "1250 Ocean Ave.", "94608", "5106537667", "previously certified business" ]
+, [ 404, "geo_shn7-wzi2-1.404", null, null, null, null, null, null, "Berkeley", "Vaska, Inc", null, "2332 5th St., Ste. E", "94710", "5106442111", "previously certified business" ]
+, [ 405, "geo_shn7-wzi2-1.405", null, null, null, null, null, null, "Oakland", "URS Corporation", null, "1333 Broadway, Suite 800", "94612", "5108933600", "previously certified business" ]
+, [ 406, "geo_shn7-wzi2-1.406", null, null, null, null, null, null, "Berkeley", "UC Berkeley-Cal Dining, Crossroads", null, "2610 Channing Wy.", "94720", "5106423273", "previously certified business" ]
+, [ 407, "geo_shn7-wzi2-1.407", null, null, null, null, null, null, "Berkeley", "UC Berkeley-Cal Dining, Clark Kerr", null, "2601 Warring St.", "94720", "5106426228", "previously certified business" ]
+, [ 408, "geo_shn7-wzi2-1.408", null, null, null, null, null, null, "Newark", "Tri-Cities One-Stop Career Center Newark", null, "39399 Cherry St.", "94560", "5107422327", "previously certified business" ]
+, [ 409, "geo_shn7-wzi2-1.409", null, null, null, null, null, null, "Berkeley", "T-Rex", null, "1300 10th St.", "94710", "510-527-0099", "previously certified business" ]
+, [ 410, "geo_shn7-wzi2-1.410", null, null, null, null, null, null, "Oakland", "Treadwell & Rollo, Inc.", null, "501 14th St., 3rd Floor", "94612", "5108744500", "previously certified business" ]
+, [ 411, "geo_shn7-wzi2-1.411", null, null, null, null, null, null, "Berkeley", "Thermal Vision Energy Solutions", null, "922 Santa Barbara Rd.", "94707", "5103259774", "previously certified business" ]
+, [ 412, "geo_shn7-wzi2-1.412", null, null, null, null, null, null, "Oakland", "TheOrganizedOne.com", null, "4444 Pampas Ave.", "94619", "5104825892", "previously certified business" ]
+, [ 413, "geo_shn7-wzi2-1.413", null, null, null, null, null, null, "Berkeley", "The Juice Bar Collective", null, "2114 Vine St.", "94709", "5105488473", "previously certified business" ]
+, [ 414, "geo_shn7-wzi2-1.414", null, null, null, null, null, null, "Berkeley", "Ecology Center Recycling Program", null, "1231 2nd St.", "94710", "5105275555", "previously certified business" ]
+, [ 415, "geo_shn7-wzi2-1.415", null, null, null, null, null, null, "Fremont", "TGIF Body Shop", null, "4595 Enterprise St.", "94538", "5104901342", "previously certified business" ]
+, [ 416, "geo_shn7-wzi2-1.416", null, null, null, null, null, null, "Alameda", "Sustainable Technologies", null, "1800 Orion St., Suite 101", "94501", "5105231122", "previously certified business" ]
+, [ 417, "geo_shn7-wzi2-1.417", null, null, null, null, null, null, "Berkeley", "Sun Light & Power", null, "1035 Folger Ave.", "94710", "5108452997", "previously certified business" ]
+, [ 418, "geo_shn7-wzi2-1.418", null, null, null, null, null, null, "Livermore", "Springs Cafe at Form Factor", null, "7401 Longard Rd.", "94551", "9252904285", "previously certified business" ]
+, [ 419, "geo_shn7-wzi2-1.419", null, null, null, null, null, null, "Oakland", "Sinan's Windows, Inc.", null, "1025 39th St.", "94609", "5106549944", "previously certified business" ]
+, [ 420, "geo_shn7-wzi2-1.420", null, null, null, null, null, null, "Pleasanton", "Sheraton Hotel Pleasanton", null, "5990 Stoneridge Mall Rd.", "94588", "9254633330", "previously certified business" ]
+, [ 421, "geo_shn7-wzi2-1.421", null, null, null, null, null, null, "Oakland", "Shaya Hamid, DDS", null, "3300 Webster St, Suite 602", "94609", "5104448000", "previously certified business" ]
+, [ 422, "geo_shn7-wzi2-1.422", null, null, null, null, null, null, "Hayward", "Serpico Landscaping, Inc.", null, "1764 National Ave.", "94545", "5102930341", "previously certified business" ]
+, [ 423, "geo_shn7-wzi2-1.423", null, null, null, null, null, null, "Berkeley", "Sea Salt", null, "2512 San Pablo Ave", "94702", "5108831720", "previously certified business" ]
+, [ 424, "geo_shn7-wzi2-1.424", null, null, null, null, null, null, "Oakland", "Savoy Events", null, "3110 35th Ave.", "94619", "5105339588", "previously certified business" ]
+, [ 425, "geo_shn7-wzi2-1.425", null, null, null, null, null, null, "Berkeley", "Satellite Housing", null, "1521 University Ave.", "94703", "5106470700", "Hotel" ]
+, [ 426, "geo_shn7-wzi2-1.426", null, null, null, null, null, null, "Berkeley", "Sage Stone Sustainable Landscapes", null, "1209 Parker St.", "94702", "5108472577", "previously certified business" ]
+, [ 427, "geo_shn7-wzi2-1.427", null, null, null, null, null, null, "Oakland", "Sage Financial Network", null, "4883 Piedmont Ave.", "94611", "8772962819", "previously certified business" ]
+, [ 428, "geo_shn7-wzi2-1.428", null, null, null, null, null, null, "Piedmont", "Robert Houser Photography", null, "215 San Carlos Ave.", "94611", "415-252-7818", "previously certified business" ]
+, [ 429, "geo_shn7-wzi2-1.429", null, null, null, null, null, null, "Berkeley", "Riva Cucina", null, "800 Heinz Ave., #19", "94710", "510-841-7482", "previously certified business" ]
+, [ 430, "geo_shn7-wzi2-1.430", null, null, null, null, null, null, "Berkeley", "REI Berkeley", null, "1338 San Pablo Ave.", "94702", "510-527-4140", "previously certified business" ]
+, [ 431, "geo_shn7-wzi2-1.431", null, null, null, null, null, null, "San Leandro", "Picnic Time Productions", null, "2096 Burroughs Ave.", "94577", "8004742649", "previously certified business" ]
+, [ 432, "geo_shn7-wzi2-1.432", null, null, null, null, null, null, "Berkeley", "Picante", null, "1328 6th St.", "94710", "510-525-3121", "previously certified business" ]
+, [ 433, "geo_shn7-wzi2-1.433", null, null, null, null, null, null, "Oakland", "Peralta Service Corporation", null, "3411 East 12th St.", "94601", "5105355027", "previously certified business" ]
+, [ 434, "geo_shn7-wzi2-1.434", null, null, null, null, null, null, "Oakland", "Oakland-Alameda Endodontics", null, "2930 Summit St.", "94609", "510-839-4546", "previously certified business" ]
+, [ 435, "geo_shn7-wzi2-1.435", null, null, null, null, null, null, "Oakland", "Oakland Auto Works", null, "240 W. MacArthur Blvd.", "94611", "5105978388", "previously certified business" ]
+, [ 436, "geo_shn7-wzi2-1.436", null, null, null, null, null, null, "Berkeley", "Northern California Cohousing", null, "2150 Allston Way #400", "94702", "5105498790", "previously certified business" ]
+, [ 437, "geo_shn7-wzi2-1.437", null, null, null, null, null, null, "Albany", "Nippon European Motors", null, "730 San Pablo Ave.", "94706", "5105272443", "previously certified business" ]
+, [ 438, "geo_shn7-wzi2-1.438", null, null, null, null, null, null, "Livermore", "JPA Landscape & Construction, Inc", null, "256 Boeing Court", "94551", "925-960-9602", "previously certified business" ]
+, [ 439, "geo_shn7-wzi2-1.439", null, null, null, null, null, null, "Berkeley", "Morimoto Matano Kang Architects", null, "1200 Tenth St.", "94710", "5105278800", "previously certified business" ]
+, [ 440, "geo_shn7-wzi2-1.440", null, null, null, null, null, null, "Berkeley", "Monkey Business Camp", null, "2880-A Sacramento Street", "94702", "5105406025", "previously certified business" ]
+, [ 441, "geo_shn7-wzi2-1.441", null, null, null, null, null, null, "Berkeley", "Missing Link Bicycle Cooperative", null, "1988 Shattuck Ave.", "94704", "510-843-7471", "previously certified business" ]
+, [ 442, "geo_shn7-wzi2-1.442", null, null, null, null, null, null, "San Leandro", "Miraglia Catering and Event Planning", null, "2096 Burroughs Ave.", "94577", "510-483-5210", "previously certified business" ]
+, [ 443, "geo_shn7-wzi2-1.443", null, null, null, null, null, null, "Berkeley", "MIG, Inc.", null, "800 Hearst Ave", "94710", "5108457549", "previously certified business" ]
+, [ 444, "geo_shn7-wzi2-1.444", null, null, null, null, null, null, "Livermore", "Mellow Monk Green Tea", null, "1227 Rebecca Dr.", "94550", "925-424-4018", "previously certified business" ]
+, [ 445, "geo_shn7-wzi2-1.445", null, null, null, null, null, null, "Oakland", "McKinnon Body Therapy Center", null, "2940 Webster St.", "94609", "5104653488", "previously certified business" ]
+, [ 446, "geo_shn7-wzi2-1.446", null, null, null, null, null, null, "Oakland", "Mariposa Baking Co.", null, "5427 Telegraph Ave., #D3", "94609", "510-595-0955", "previously certified business" ]
+, [ 447, "geo_shn7-wzi2-1.447", null, null, null, null, null, null, "Berkeley", "Lalime's", null, "1329 Gilman St.", "94706", "5105279838", "previously certified business" ]
+, [ 448, "geo_shn7-wzi2-1.448", null, null, null, null, null, null, "Berkeley", "La Note", null, "2377 Shattuck Ave.", "94704", "5108431535", "previously certified business" ]
+, [ 449, "geo_shn7-wzi2-1.449", null, null, null, null, null, null, "Berkeley", "La Bonne Cuisine Fine Catering & Events", null, "1030 Murray St.", "94710", "5105493760", "previously certified business" ]
+, [ 450, "geo_shn7-wzi2-1.450", null, null, null, null, null, null, "Berkeley", "L J Kruse", null, "920 Pardee St.", "94710", "5106440260", "previously certified business" ]
+, [ 451, "geo_shn7-wzi2-1.451", null, null, null, null, null, null, "Oakland", "KEMA Incorporated", null, "492 9th St., Ste. 220", "94607", "5108910446", "previously certified business" ]
+, [ 452, "geo_shn7-wzi2-1.452", null, null, null, null, null, null, "Alameda", "Kelly E. Lux, State Farm Insurance Agency", null, "564 Park St.", "94501", "5105211222", "previously certified business" ]
+, [ 453, "geo_shn7-wzi2-1.453", null, null, null, null, null, null, "Dublin", "Kahlers Werkstatt", null, "6117 Dougherty Rd.", "94568", "9258292050", "previously certified business" ]
+, [ 454, "geo_shn7-wzi2-1.454", null, null, null, null, null, null, "Berkeley", "Jupiter", null, "2181 Shattuck Ave.", "94704", "5108838277", "previously certified business" ]
+, [ 455, "geo_shn7-wzi2-1.455", null, null, null, null, null, null, "Berkeley", "Jimmy Beans", null, "2190 6th St.", "94710", "510-528-3435", "previously certified business" ]
+, [ 456, "geo_shn7-wzi2-1.456", null, null, null, null, null, null, "Berkeley", "Hotel Shattuck Plaza", null, "2086 Allston Way", "94704", "5108457300", "previously certified business" ]
+, [ 457, "geo_shn7-wzi2-1.457", null, null, null, null, null, null, "Berkeley", "Hotel Durant", null, "2600 Durant Ave.", "94704", "5108094120", "previously certified business" ]
+, [ 458, "geo_shn7-wzi2-1.458", null, null, null, null, null, null, "Berkeley", "Hipline Studio", null, "3167 College Ave.", "94704", "5103507784", "previously certified business" ]
+, [ 459, "geo_shn7-wzi2-1.459", null, null, null, null, null, null, "Berkeley", "Herbivore", null, "2451 Shattuck Avenue", "94704", "5106651675", "previously certified business" ]
+, [ 460, "geo_shn7-wzi2-1.460", null, null, null, null, null, null, "Berkeley", "Henry's Restaurant", null, "2600 Durant Ave.", "94704", "5108094120", "previously certified business" ]
+, [ 461, "geo_shn7-wzi2-1.461", null, null, null, null, null, null, "Pleasanton", "Harsch Investment Properties, Pleasanton Office", null, "3875 Hopyard Rd., Ste. 180", "94588", "9252186303", "previously certified business" ]
+, [ 462, "geo_shn7-wzi2-1.462", null, null, null, null, null, null, "Berkeley", "Grove Street Kids", null, "1644 Martin Luther King Jr. Way", "94709", "510-843-5437", "previously certified business" ]
+, [ 463, "geo_shn7-wzi2-1.463", null, null, null, null, null, null, "Berkeley", "Griffin Motorwerke", null, "1146 6th Street", "94710", "510-524-7447", "previously certified business" ]
+, [ 464, "geo_shn7-wzi2-1.464", null, null, null, null, null, null, "Berkeley", "Gregoire", null, "2109 Cedar St.", "94709", "5108831893", "previously certified business" ]
+, [ 465, "geo_shn7-wzi2-1.465", null, null, null, null, null, null, "Oakland", "GreenHeart Global, Inc.", null, "1148 E. 18th St., #5", "94606", "510-261-7343", "Office/Retail" ]
+, [ 466, "geo_shn7-wzi2-1.466", null, null, null, null, null, null, "Oakland", "Green Translations", null, "288 3rd St., #404", "94607", "5107359896", "previously certified business" ]
+, [ 467, "geo_shn7-wzi2-1.467", null, null, null, null, null, null, "Berkeley", "Grandma's Garage", null, "821 Gilman St.", "94710", "5105271065", "previously certified business" ]
+, [ 468, "geo_shn7-wzi2-1.468", null, null, null, null, null, null, "Livermore", "Goza Gear Screen Printing & Embroidery", null, "60 Rickenbacker Circle, Unit B", "94551", "8008849994", "previously certified business" ]
+, [ 469, "geo_shn7-wzi2-1.469", null, null, null, null, null, null, "Berkeley", "Gioia Pizzeria", null, "1586 Hopkins St.", "94707", "510-528-4692", "previously certified business" ]
+, [ 470, "geo_shn7-wzi2-1.470", null, null, null, null, null, null, "Oakland", "Gingerleaf Floral", null, "397 43rd St.", "94609", "5104062638", "previously certified business" ]
+, [ 471, "geo_shn7-wzi2-1.471", null, null, null, null, null, null, "Newark", "Gateway Cafe", null, "7677 Gateway Blvd.", "94560", "5107420400", "previously certified business" ]
+, [ 472, "geo_shn7-wzi2-1.472", null, null, null, null, null, null, "Albany", "Gaea Mothercare", null, "1248 Portland Ave.", "94706", "5102606240", "previously certified business" ]
+, [ 473, "geo_shn7-wzi2-1.473", null, null, null, null, null, null, "Fremont", "Fremont Marriott", null, "46100 Landing Pkwy.", "94538", "5104133700", "Hotel" ]
+, [ 474, "geo_shn7-wzi2-1.474", null, null, null, null, null, null, "Oakland", "Fitzgerald Abbott & Beardsley, LLP", null, "1221 Broadway, 21st Floor", "94612", "5104513300", "previously certified business" ]
+, [ 475, "geo_shn7-wzi2-1.475", null, null, null, null, null, null, "Berkeley", "Filippo's - Berkeley", null, "2930 College Ave.", "94705", "510-644-3848", "previously certified business" ]
+, [ 476, "geo_shn7-wzi2-1.476", null, null, null, null, null, null, "Oakland", "Ferrier & Savage, DDS", null, "2080 Mountain Blvd., Suite 209", "94611", "5103390313", "previously certified business" ]
+, [ 477, "geo_shn7-wzi2-1.477", null, null, null, null, null, null, "Berkeley", "Fellini", null, "1401 University Ave.", "94702", "5108415200", "previously certified business" ]
+, [ 478, "geo_shn7-wzi2-1.478", null, null, null, null, null, null, "Fremont", "EXP Pharmaceutical Services Corp.", null, "48021 Warm Springs Blvd.", "94539", "5109330936", "previously certified business" ]
+, [ 479, "geo_shn7-wzi2-1.479", null, null, null, null, null, null, "Berkeley", "ecoOsteopathy", null, "1524 Fairview Street", "94703", "5107713000", "previously certified business" ]
+, [ 480, "geo_shn7-wzi2-1.480", null, null, null, null, null, null, "Oakland", "EBMUD Fleet Maintenance", null, "1199 21st St.", "94607", "510-287-0878", "previously certified business" ]
+, [ 481, "geo_shn7-wzi2-1.481", null, null, null, null, null, null, "Berkeley", "East Bay Cohousing", null, "2220 Sacramento St., Unit N", "94702", "5105498790", "previously certified business" ]
+, [ 482, "geo_shn7-wzi2-1.482", null, null, null, null, null, null, "Oakland", "Dona Tomas", null, "5004 Telegraph Ave.", "94609", "5104500522", "Restaurant" ]
+, [ 483, "geo_shn7-wzi2-1.483", null, null, null, null, null, null, "Berkeley", "Design, Community & Environment", null, "1625 Shattuck Ave. #300", "94709", "5108483815", "previously certified business" ]
+, [ 484, "geo_shn7-wzi2-1.484", null, null, null, null, null, null, "Berkeley", "David Brower Center, Management Office", null, "2150 Allston Way", "94704", "510-486-0286", "Office/Retail" ]
+, [ 485, "geo_shn7-wzi2-1.485", null, null, null, null, null, null, "Albany", "Dana Meyer Auto Care", null, "660 San Pablo Ave.", "94706", "5105271938", "previously certified business" ]
+, [ 486, "geo_shn7-wzi2-1.486", null, null, null, null, null, null, "Berkeley", "Cultured", null, "800 Bancroft Way, #105", "94710", "510-540-5185", "previously certified business" ]
+, [ 487, "geo_shn7-wzi2-1.487", null, null, null, null, null, null, "Berkeley", "Crixa Cakes", null, "2748 Adeline St.", "94703", "5105480421", "previously certified business" ]
+, [ 488, "geo_shn7-wzi2-1.488", null, null, null, null, null, null, "Livermore", "Costco Wholesale Livermore", null, "2800 Independence Dr.", "94551", "9254436306", "previously certified business" ]
+, [ 489, "geo_shn7-wzi2-1.489", null, null, null, null, null, null, "San Leandro", "Copper Harbor", null, "2500 Davis St.", "94577", "5106394670", "previously certified business" ]
+, [ 490, "geo_shn7-wzi2-1.490", null, null, null, null, null, null, "Berkeley", "Communitarian Visions", null, "2150 Allston Way #400", "94702", "5105498790", "previously certified business" ]
+, [ 491, "geo_shn7-wzi2-1.491", null, null, null, null, null, null, "Oakland", "Climate Coaching", null, "6475 Colby St.", "94609", "5104280349", "previously certified business" ]
+, [ 492, "geo_shn7-wzi2-1.492", null, null, null, null, null, null, "Berkeley", "Clearwater Hydrology", null, "2974 Adeline St.", "94703", "5108411836", "previously certified business" ]
+, [ 493, "geo_shn7-wzi2-1.493", null, null, null, null, null, null, "Pleasanton", "City of Pleasanton Fleet Maintenance", null, "3333 Busch Road", "94566", "9259315582", "previously certified business" ]
+, [ 494, "geo_shn7-wzi2-1.494", null, null, null, null, null, null, "Alameda", "Christine Buck Communications", null, "1131 Bay St.", "94501", "5105219892", "previously certified business" ]
+, [ 495, "geo_shn7-wzi2-1.495", null, null, null, null, null, null, "Alameda", "Chef-K", null, "909 Marina Village Pkwy, #146", "94501", "5105222909", "previously certified business" ]
+, [ 496, "geo_shn7-wzi2-1.496", null, null, null, null, null, null, "Oakland", "California State University East Bay/The Oakland Center", null, "1000 Broadway, Suite 109", "94607", "5102087004", "previously certified business" ]
+, [ 497, "geo_shn7-wzi2-1.497", null, null, null, null, null, null, "Berkeley", "Caffe Mediterraneum", null, "2475 Telegraph Ave.", "94704", "5105491128", "previously certified business" ]
+, [ 498, "geo_shn7-wzi2-1.498", null, null, null, null, null, null, "Berkeley", "Cafe Trieste", null, "2500 San Pablo Ave.", "94710", "5105485198", "previously certified business" ]
+, [ 499, "geo_shn7-wzi2-1.499", null, null, null, null, null, null, "Berkeley", "Cafe Gratitude", null, "1730 Shattuck Ave.", "94709", "5107254418", "previously certified business" ]
+, [ 500, "geo_shn7-wzi2-1.500", null, null, null, null, null, null, "Berkeley", "Cactus Taqueria - Solano", null, "1881 Solano Avenue", "94707", "5105281881", "previously certified business" ]
+, [ 501, "geo_shn7-wzi2-1.501", null, null, null, null, null, null, "Berkeley", "Brewed Awakening", null, "1807 Euclid Ave.", "94709", "5105408865", "previously certified business" ]
+, [ 502, "geo_shn7-wzi2-1.502", null, null, null, null, null, null, "Berkeley", "Bread Workshop", null, "1398 University Ave.", "94702", "5106499740", "previously certified business" ]
+, [ 503, "geo_shn7-wzi2-1.503", null, null, null, null, null, null, "San Leandro", "Borden Lighting", null, "999 Montague St.", "94577", "5103570171", "previously certified business" ]
+, [ 504, "geo_shn7-wzi2-1.504", null, null, null, null, null, null, "Berkeley", "Berkeley Natural Grocery Company", null, "1336 Gilman St.", "94706", "5105262456", "Office/Retail" ]
+, [ 505, "geo_shn7-wzi2-1.505", null, null, null, null, null, null, "Albany", "Berkeley Motor Works", null, "736 San Pablo Ave.", "94706", "5105281214", "previously certified business" ]
+, [ 506, "geo_shn7-wzi2-1.506", null, null, null, null, null, null, "Berkeley", "Berkeley Minicar", null, "2498 San Pablo Ave.", "94702", "5108411221", "previously certified business" ]
+, [ 507, "geo_shn7-wzi2-1.507", null, null, null, null, null, null, "Emeryville", "Bay Street Emeryville", null, "5616 Bay St.", "94608", "5106554002", "previously certified business" ]
+, [ 508, "geo_shn7-wzi2-1.508", null, null, null, null, null, null, "Berkeley", "Barney's Gourmet Hamburgers - Solano", null, "1591 Solano Ave.", "94707", "510-526-8185", "previously certified business" ]
+, [ 509, "geo_shn7-wzi2-1.509", null, null, null, null, null, null, "Emeryville", "Baker-Vilar Architects", null, "1516 Park Ave.", "94608", "5105952260", "previously certified business" ]
+, [ 510, "geo_shn7-wzi2-1.510", null, null, null, null, null, null, "Oakland", "Baja Taqueria", null, "4070 Piedmont Ave.", "94611", "5105472252", "previously certified business" ]
+, [ 511, "geo_shn7-wzi2-1.511", null, null, null, null, null, null, "Berkeley", "Arts Automotive", null, "2871 San Pablo Ave.", "94702", "5105407093", "Auto Repair" ]
+, [ 512, "geo_shn7-wzi2-1.512", null, null, null, null, null, null, "Oakland", "Aramark Uniform Services", null, "330 Chestnut St.", "94607", "5108359285", "Small Manufacturer" ]
+, [ 513, "geo_shn7-wzi2-1.513", null, null, null, null, null, null, "Berkeley", "Aging In Community", null, "2150 Allston Way #400", "94702", "5105498790", "previously certified business" ]
+, [ 514, "geo_shn7-wzi2-1.514", null, null, null, null, null, null, "Berkeley", "Aeronet Communications", null, "834 Camelia Street", "94710", "510-558-0400", "previously certified business" ]
+ ]
+}
